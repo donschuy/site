@@ -17,7 +17,7 @@ This was a great beginner hike for my young grandson Tristan. It’s only 2.2 mi
 
 ![On the boardwalk](/ice-caves/IMG_2563.webp)
 
-The view along the boardwalk is beautiful all of the way around.
+The view looking back from the boardwalk beautiful.
 
 ![View of wetlands with mountains in the background](/ice-caves/IMG_2568.webp)
 
@@ -37,7 +37,7 @@ We had a lunch break and spent a bunch of time throwing rocks.
 
 ![Tristan posing for a picture with the ice caves in the background.](/ice-caves/IMG_2604.webp)
 
-The surrounding views are equally impressive. This photo was taken at the start of the hike back to the car.
+The start of the hike back to the car.
 
 ![A trail with mountains in the distance.](/ice-caves/IMG_2618.webp)
 
