@@ -1,9 +1,8 @@
 ---
 import '../styles/global.css';
 ---
-
 <html lang="en">
-	<head>
+  <head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/png" href="/icons8-tree-pulsar-color-32.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,22 +11,16 @@ import '../styles/global.css';
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Don Schuy's Activity Log</title>
-	</head>
-	<body>
-		<h1>Don Schuy's Activity Log</h1>
+  </head>
+  <body>
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
       </ul>
     </nav>
-
-    <nav>
-      <ul>
-				<li><a href="/hikes/ice-caves-july-2026">Big Four Ice Caves with Jeff and Tristan</a></li>
-      </ul>
-    </nav>
-
-		<footer><a target="_blank" href="https://icons8.com/icon/nVbBv1tBlyZJ/tree">Tree</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></footer>
-	</body>
+    <article>
+      <slot />
+    </article>
+  </body>
 </html>

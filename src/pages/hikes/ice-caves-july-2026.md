@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PageLayout.astro
 title: 'Big Four Ice Caves with Jeff and Tristan'
 pubDate: 2026-07-09
 description: 'Short hike to Big Four Mountain Ice Caves.'
