@@ -10,21 +10,21 @@ tags: ["hiking"]
 ---
 # Big Four Ice Caves with Jeff and Tristan
 
-[The Washington Trails Association page for this hike.](https://www.wta.org/go-hiking/hikes/big-four-ice-caves)
+[Washington Trails Association page for this hike](https://www.wta.org/go-hiking/hikes/big-four-ice-caves)
 
-This was a good beginner hike for my young grandson Tristan. It is only 2.2 miles round trip and mostly flat. It starts with a really cool boardwalk allowing you to experience walking through a wetland and observe the wildlife.
+This was a great beginner hike for my young grandson Tristan. It’s only 2.2 miles round trip and mostly flat. The trail begins with a long boardwalk that lets you walk through a wetland and observe the wildlife.
 
 ![On the boardwalk](/public/ice-caves/IMG_2563.webp)
 
-The short trail is exceptionally well maintained and the scenery with surrounding mountains is beautiful.
+The short trail is exceptionally well maintained, and the scenery—surrounding mountains and lush greenery—is beautiful.
 
 ![Walking the trail to the ice caves](/public/ice-caves/IMG_2592.webp)
 
-Stopping for a break from the heat.
+We stopped for a break from the heat.
 
 ![Resting on a provided bench along the trail](/public/ice-caves/IMG_2596.webp)
 
-The surrounding mountain is massive, but so is the ice. We kept our distance from it because of the potential danger. Signs warn visitors to stay off the ice and never go in the caves.
+The mountain is massive, and so is the ice. We kept our distance because of the potential danger. Signs warn visitors to stay off the ice and never enter the caves.
 
 ![A view of the ice caves from a distance](/public/ice-caves/IMG_2606.webp)
 
@@ -32,7 +32,7 @@ We had a lunch break and spent a bunch of time throwing rocks.
 
 ![Tristan posing for a picture with the ice caves in the background.](/public/ice-caves/IMG_2604.webp)
 
-The surrounding view is equally interesting. This is on the start of the hike back to the car.
+The surrounding views are equally impressive. This photo was taken at the start of the hike back to the car.
 
 ![A trail with mountains in the distance.](/public/ice-caves/IMG_2618.webp)
 
@@ -44,6 +44,6 @@ Tristan enjoyed the hike back.
 
 ![Tristan on the trail back to the car.](/public/ice-caves/IMG_2622.webp)
 
-We got to experience the boardwalk again on the way back. You can see from this picture how massive it is.
+We got to experience the boardwalk again on the return trip. You can see from this picture how long and impressive it is.
 
 ![Hiking back along the boardwalk.](/public/ice-caves/IMG_2639.webp)
