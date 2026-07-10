@@ -11,7 +11,15 @@ img {
 
 footer {
   font-size: 10px;
-  color: #444444;
+  color: #666666;
+  a, a:visited {
+    color: #666666;
+  }
+}
+
+.entry-date {
+  font-size: 14px;
+  color: #666666;
 }
 
 a, a:visited {
@@ -26,6 +34,9 @@ nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    li {
+      padding-bottom: 8px;
+    }
   }
   > a {
     padding-right: 20px;

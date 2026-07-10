@@ -4,12 +4,10 @@ title: 'Big Four Ice Caves with Jeff and Tristan'
 pubDate: 2026-07-09
 description: 'Short hike to Big Four Mountain Ice Caves.'
 author: 'Don Schuy'
-image:
-    url: 'https://donschuy.com/ice-caves/IMG_2606.webp'
-    alt: 'The Big Four Mountain Ice Caves.'
 tags: ["hiking"]
 ---
 # Big Four Ice Caves with Jeff and Tristan
+*July 9, 2026*
 
 [Washington Trails Association page for this hike](https://www.wta.org/go-hiking/hikes/big-four-ice-caves)
 
