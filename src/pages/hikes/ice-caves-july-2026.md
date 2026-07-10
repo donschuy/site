@@ -4,7 +4,7 @@ pubDate: 2026-07-09
 description: 'Short hike to Big Four Mountain Ice Caves.'
 author: 'Don Schuy'
 image:
-    url: 'https://donschuy.com/public/ice-caves/IMG_2606.webp'
+    url: 'https://donschuy.com/ice-caves/IMG_2606.webp'
     alt: 'The Big Four Mountain Ice Caves.'
 tags: ["hiking"]
 ---
@@ -14,36 +14,38 @@ tags: ["hiking"]
 
 This was a great beginner hike for my young grandson Tristan. It’s only 2.2 miles round trip and mostly flat. The trail begins with a long boardwalk that lets you walk through a wetland and observe the wildlife.
 
-![On the boardwalk](/public/ice-caves/IMG_2563.webp)
+![On the boardwalk](/ice-caves/IMG_2563.webp)
 
 The short trail is exceptionally well maintained, and the scenery—surrounding mountains and lush greenery—is beautiful.
 
-![Walking the trail to the ice caves](/public/ice-caves/IMG_2592.webp)
+![Walking the trail to the ice caves](/ice-caves/IMG_2592.webp)
 
 We stopped for a break from the heat.
 
-![Resting on a provided bench along the trail](/public/ice-caves/IMG_2596.webp)
+![Resting on a provided bench along the trail](/ice-caves/IMG_2596.webp)
 
 The mountain is massive, and so is the ice. We kept our distance because of the potential danger. Signs warn visitors to stay off the ice and never enter the caves.
 
-![A view of the ice caves from a distance](/public/ice-caves/IMG_2606.webp)
+![A view of the ice caves from a distance](/ice-caves/IMG_2606.webp)
 
 We had a lunch break and spent a bunch of time throwing rocks.
 
-![Tristan posing for a picture with the ice caves in the background.](/public/ice-caves/IMG_2604.webp)
+![Tristan posing for a picture with the ice caves in the background.](/ice-caves/IMG_2604.webp)
 
 The surrounding views are equally impressive. This photo was taken at the start of the hike back to the car.
 
-![A trail with mountains in the distance.](/public/ice-caves/IMG_2618.webp)
+![A trail with mountains in the distance.](/ice-caves/IMG_2618.webp)
 
 There were lots of flowers like this.
 
-![Pink flowers growing alongside the trail.](/public/ice-caves/IMG_2619.webp)
+![Pink flowers growing alongside the trail.](/ice-caves/IMG_2619.webp)
 
 Tristan enjoyed the hike back.
 
-![Tristan on the trail back to the car.](/public/ice-caves/IMG_2622.webp)
+![Tristan on the trail back to the car.](/ice-caves/IMG_2622.webp)
 
 We got to experience the boardwalk again on the return trip. You can see from this picture how long and impressive it is.
 
-![Hiking back along the boardwalk.](/public/ice-caves/IMG_2639.webp)
+![Hiking back along the boardwalk.](/ice-caves/IMG_2639.webp)
+
+[Home](https://donschuy.com)
