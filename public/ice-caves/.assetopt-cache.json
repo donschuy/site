@@ -1,0 +1,79 @@
+{
+  "51bd3a99af2c44132608f8e25c6212b3fc563b2e0bb01f1ceef42fe17d559b9f": {
+    "inputSize": 1038754,
+    "outputSize": 952058,
+    "outputPath": "IMG_2568.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719128891
+  },
+  "0f39148de889faec6979adfcb177f9330a45f975063e3d904da09a74f6a2d37e": {
+    "inputSize": 1194260,
+    "outputSize": 1100476,
+    "outputPath": "IMG_2563.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719128912
+  },
+  "9394e18712302bd384ea44756942eeac68dc9ef15e57e3910b611e2850e7f840": {
+    "inputSize": 1227028,
+    "outputSize": 1130902,
+    "outputPath": "IMG_2596.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719128926
+  },
+  "6572282667c960c7f48bab838866797af60fd25d335f5546dccbd5b3534a4716": {
+    "inputSize": 125818,
+    "outputSize": 103956,
+    "outputPath": "IMG_2604.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129087
+  },
+  "6f822659e6788155f3b9df680e0112aaa0833c067f0c151103e1014c86b366c3": {
+    "inputSize": 2023914,
+    "outputSize": 1879330,
+    "outputPath": "IMG_2592.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129163
+  },
+  "28244908810799245c47e6862b677d7fef19ad8554672ff347d3c3533f67fb87": {
+    "inputSize": 1062180,
+    "outputSize": 971236,
+    "outputPath": "IMG_2606.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129249
+  },
+  "0d97a07ed12e30ed27da1a3a25ddf4dd97b80a2fb75463536613fb6271c54cb2": {
+    "inputSize": 1031670,
+    "outputSize": 944808,
+    "outputPath": "IMG_2614.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129258
+  },
+  "46630c4cfbb71d4b7c6a80f266518238af5a30f62a5d90af0d04fc129aa46aa7": {
+    "inputSize": 1024386,
+    "outputSize": 957438,
+    "outputPath": "IMG_2618.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129414
+  },
+  "662ef869885277a487b89a09408c15fe14468e8493183daf578a30c0b148e622": {
+    "inputSize": 317492,
+    "outputSize": 272390,
+    "outputPath": "IMG_2622.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129484
+  },
+  "485a2d72e3eb5c7e38c9f6c09f3ab5172a1a24e624f8d7c64562d3a768bee25d": {
+    "inputSize": 398000,
+    "outputSize": 338502,
+    "outputPath": "IMG_2619.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129530
+  },
+  "8144c51145d540b119baa165cfbeb564ced803b858f6cb059bb280f4818435c3": {
+    "inputSize": 973128,
+    "outputSize": 889946,
+    "outputPath": "IMG_2639.webp",
+    "outputFormat": "webp",
+    "timestamp": 1783719129577
+  }
+}
