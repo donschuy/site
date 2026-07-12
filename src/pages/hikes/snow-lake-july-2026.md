@@ -9,7 +9,8 @@ tags: ["hiking"]
 # Snow Lake with Ying, Marcus and Leah
 *July 6, 2026*
 
-[Washington Trails Association page for this hike](https://www.wta.org/go-hiking/hikes/snow-lake)
+[Washington Trails Association page](https://www.wta.org/go-hiking/hikes/snow-lake) for this hike.
+[All Trails page](https://www.alltrails.com/trail/us/washington/snow-lake-trail) for this hike.
 
 Ying and I had considered this a moderate to easy hike, but the WTA page lists it as "Moderate/Hard". So congrats are due to Marcus and Leah for taking this on as
 a first hike.

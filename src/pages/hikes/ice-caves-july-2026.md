@@ -9,7 +9,8 @@ tags: ["hiking"]
 # Big Four Ice Caves with Jeff and Tristan
 *July 9, 2026*
 
-[Washington Trails Association page for this hike](https://www.wta.org/go-hiking/hikes/big-four-ice-caves)
+[Washington Trails Association page](https://www.wta.org/go-hiking/hikes/big-four-ice-caves) for this hike.
+[All Trails page](https://www.alltrails.com/trail/us/washington/big-four-ice-caves-trail) for this hike.
 
 This was a great beginner hike for my young grandson Tristan. It’s only 2.2 miles round trip and mostly flat. The trail begins with a long boardwalk that lets you walk through a wetland and observe the wildlife.
 
