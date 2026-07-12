@@ -1,21 +1,21 @@
 ---
 layout: ../../layouts/PageLayout.astro
-title: 'Snow Lake with Ying, Marcus and Leah'
+title: 'Snow Lake'
 pubDate: 2026-07-06
-description: 'Hiking the popular Snow Lake trail with Marcus and Leah.'
+description: 'Hiking the popular Snow Lake trail.'
 author: 'Don Schuy'
 tags: ["hiking"]
 ---
-# Snow Lake with Ying, Marcus and Leah
+# Snow Lake
 *July 6, 2026*
 
 [Washington Trails Association page](https://www.wta.org/go-hiking/hikes/snow-lake) for this hike.
 [All Trails page](https://www.alltrails.com/trail/us/washington/snow-lake-trail) for this hike.
 
-Ying and I had considered this a moderate to easy hike, but the WTA page lists it as "Moderate/Hard". So congrats are due to Marcus and Leah for taking this on as
-a first hike.
+My wife and I had considered this a moderate to easy hike, but the WTA page lists it as "Moderate/Hard". So congrats are due to my grandkids for taking
+this on as a first hike.
 
-Marcus takes a photo of the scenery.
+My grandson takes a photo of the scenery.
 
 ![Hikers stopping for a photo.](/snow-lake/IMG_2411.webp)
 
@@ -27,13 +27,13 @@ These large boulders are common in the area.
 
 ![View of a hill of boulders.](/snow-lake/IMG_2428.webp)
 
-I like to take advantage of the good lighting and scenic backgrounds for some portaits. Here is one of Marcus. My iPhone is set to Portrait mode, which causes the background to go softly out of focus.
+I like to take advantage of the good lighting and scenic backgrounds for some portaits. Here is one of my grandson. My iPhone is set to Portrait mode, which causes the background to go softly out of focus.
 
-![Portait photo of Marcus.](/snow-lake/IMG_2433.webp)
+![Portait photo of my grandson.](/snow-lake/IMG_2433.webp)
 
-Likewise, a portait of Leah taken with the lighting and scenery benefits.
+Likewise, a portait of my grandaughter taken with the lighting and scenery benefits.
 
-![Portrait photo of Leah.](/snow-lake/IMG_2436.webp)
+![Portrait photo of my grandaughter.](/snow-lake/IMG_2436.webp)
 
 Lots of vine maples, evergreens and mountainous rocks.
 
@@ -53,17 +53,17 @@ The rocks on the trail are sharp. With the position of the trees to the ground; 
 
 Another portrait opportunity as we stop for a brief rest.
 
-Marcus
+My grandson.
 
-![A portrait of Marcus.](/snow-lake/IMG_2457.webp)
+![A portrait of my grandson.](/snow-lake/IMG_2457.webp)
 
-Leah
+My grandaughter
 
-![A portrait of Leah.](/snow-lake/IMG_2458.webp)
+![A portrait of my grandaughter.](/snow-lake/IMG_2458.webp)
 
-Their "Ma" (grandma), Ying. Ha ha, if you look close you can see my reflection in her sunglasses.
+Their "Ma" (grandma). Ha ha, if you look close you can see my reflection in her sunglasses.
 
-![A portrait of Ying.](/snow-lake/IMG_2461.webp)
+![A portrait of my wife.](/snow-lake/IMG_2461.webp)
 
 Continuing up a hill.
 
@@ -79,13 +79,13 @@ When you reach the top, there is a viewing rock above the lake where you can get
 
 The viewing site is another portrait opportunity. We had to wait for other hikers to finish so we could take our photos.
 
-Marcus
+My grandson
 
-![Portrait of Marcus above Snow Lake.](/snow-lake/IMG_2492.webp)
+![Portrait of my grandson above Snow Lake.](/snow-lake/IMG_2492.webp)
 
-Leah
+My grandaughter
 
-![Portrait of Leah above Snow Lake.](/snow-lake/IMG_2498.webp)
+![Portrait of my grandaughter above Snow Lake.](/snow-lake/IMG_2498.webp)
 
 Another iconic Snow Lake photo taken while traversing down the trail to it.
 
@@ -103,9 +103,9 @@ A view of the lake shore from just off the trail.
 
 ![The shore of Snow Lake with shallow water showing the rocks and dirt below the water. A mountanous ridge is around the back end of the lake.](/snow-lake/IMG_2509.webp)
 
-Leah posing on a wooden walkway that is part of the trail that goes around to the back of Snow Lake.
+My grandaughter posing on a wooden walkway that is part of the trail that goes around to the back of Snow Lake.
 
-![Leah with arms extended on a wooden path.](/snow-lake/IMG_2527.webp)
+![My grandaughter with arms extended on a wooden path.](/snow-lake/IMG_2527.webp)
 
 This is the furthest we went. We are on a small rock hill gives us another view of the lake.
 
@@ -113,16 +113,16 @@ This is the furthest we went. We are on a small rock hill gives us another view 
 
 Another portrait photo opportunity.
 
-Marcus
+My grandson
 
-![Marcus with the out of focus Snow Lake in the background.](/snow-lake/IMG_2535.webp)
+![My grandson with the out of focus Snow Lake in the background.](/snow-lake/IMG_2535.webp)
 
-Leah
+My granddaughter
 
-![Leah with the slightly out of focus Snow Lake in the background.](/snow-lake/IMG_2540.webp)
+![My grandaughter with the slightly out of focus Snow Lake in the background.](/snow-lake/IMG_2540.webp)
 
-Ying and I were happy that Marcus and Leah were able to have this experience with us. They were rock solid and handled it well.
+My wife and I were happy that our grandchildren were able to have this experience with us. They were rock solid and handled it well.
 
-From this point on the trail you can continue on to Gem Lake if you have the energy. It extends the length of the hike by quite a bit. Ying and I have done it several times, though it was rough going (at least for me) the first time round.
+From this point on the trail you can continue on to Gem Lake if you have the energy. It extends the length of the hike by quite a bit. My wife and I have done it several times, though it was rough going (at least for me) the first time round.
 
 [Home](https://donschuy.com)
