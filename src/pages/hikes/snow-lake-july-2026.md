@@ -31,15 +31,15 @@ I like to take advantage of the good lighting and scenic backgrounds for some po
 
 ![Portait photo of my grandson.](/snow-lake/IMG_2433.webp)
 
-Likewise, a portait of my grandaughter taken with the lighting and scenery benefits.
+Likewise, a portait of my granddaughter taken with the lighting and scenery benefits.
 
-![Portrait photo of my grandaughter.](/snow-lake/IMG_2436.webp)
+![Portrait photo of my granddaughter.](/snow-lake/IMG_2436.webp)
 
 Lots of vine maples, evergreens and mountainous rocks.
 
 ![A view of the Pacific Northwest vegitation and mountainous scenery.](/snow-lake/IMG_2437.webp)
 
-An interesting wildflower.
+An interesting wildflower
 
 ![A yellow flower with red spots in a drooping and curled position.](/snow-lake/IMG_2438.webp)
 
@@ -53,13 +53,13 @@ The rocks on the trail are sharp. With the position of the trees to the ground; 
 
 Another portrait opportunity as we stop for a brief rest.
 
-My grandson.
+My grandson
 
 ![A portrait of my grandson.](/snow-lake/IMG_2457.webp)
 
-My grandaughter
+My granddaughter
 
-![A portrait of my grandaughter.](/snow-lake/IMG_2458.webp)
+![A portrait of my granddaughter.](/snow-lake/IMG_2458.webp)
 
 Their "Ma" (grandma). Ha ha, if you look close you can see my reflection in her sunglasses.
 
@@ -83,9 +83,9 @@ My grandson
 
 ![Portrait of my grandson above Snow Lake.](/snow-lake/IMG_2492.webp)
 
-My grandaughter
+My granddaughter
 
-![Portrait of my grandaughter above Snow Lake.](/snow-lake/IMG_2498.webp)
+![Portrait of my granddaughter above Snow Lake.](/snow-lake/IMG_2498.webp)
 
 Another iconic Snow Lake photo taken while traversing down the trail to it.
 
@@ -103,9 +103,9 @@ A view of the lake shore from just off the trail.
 
 ![The shore of Snow Lake with shallow water showing the rocks and dirt below the water. A mountanous ridge is around the back end of the lake.](/snow-lake/IMG_2509.webp)
 
-My grandaughter posing on a wooden walkway that is part of the trail that goes around to the back of Snow Lake.
+My granddaughter posing on a wooden walkway that is part of the trail that goes around to the back of Snow Lake.
 
-![My grandaughter with arms extended on a wooden path.](/snow-lake/IMG_2527.webp)
+![My granddaughter with arms extended on a wooden path.](/snow-lake/IMG_2527.webp)
 
 This is the furthest we went. We are on a small rock hill gives us another view of the lake.
 
@@ -119,7 +119,7 @@ My grandson
 
 My granddaughter
 
-![My grandaughter with the slightly out of focus Snow Lake in the background.](/snow-lake/IMG_2540.webp)
+![My granddaughter with the slightly out of focus Snow Lake in the background.](/snow-lake/IMG_2540.webp)
 
 My wife and I were happy that our grandchildren were able to have this experience with us. They were rock solid and handled it well.
 
