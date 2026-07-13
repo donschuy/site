@@ -47,7 +47,7 @@ There were lots of flowers like this.
 My grandson enjoyed the hike back.
 
 ![Child on the trail back to the car.](/ice-caves/IMG_2622.webp)
-
+<caption text=>
 We got to experience the boardwalk again on the return trip. You can see from this picture how long and impressive it is.
 
 ![Hiking back along the boardwalk.](/ice-caves/IMG_2639.webp)
