@@ -42,3 +42,11 @@ nav {
     padding-right: 20px;
   } 
 }
+
+figure {
+  margin: 2rem 0;
+}
+figcaption {
+  font-style: italic;
+  margin-top: 0.5rem;
+}

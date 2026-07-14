@@ -257,5 +257,47 @@
     "outputPath": "IMG_2744.webp",
     "outputFormat": "webp",
     "timestamp": 1783985863433
+  },
+  "8bc0eb1ce1cabc5b87788af6c72fb3d3b28e6dedf38f196e81cbea416d6fe30f": {
+    "inputSize": 332920,
+    "outputSize": 287936,
+    "outputPath": "IMG_2746.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244413
+  },
+  "3502d1602564c0697fabf19f75509a725c67a413ccc4946e2198b9befff63e7c": {
+    "inputSize": 476870,
+    "outputSize": 433348,
+    "outputPath": "IMG_2750.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244443
+  },
+  "a373fbda8f2a4e8105a8cee2483ce951922f18cbb3a06dab49f31d93595dd4ae": {
+    "inputSize": 407262,
+    "outputSize": 356350,
+    "outputPath": "IMG_2747.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244446
+  },
+  "7e9cba2550f34f2942c5b0b86130e0ebbc00fe4761652031b096cba207ff1993": {
+    "inputSize": 478846,
+    "outputSize": 422170,
+    "outputPath": "IMG_2745.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244447
+  },
+  "fdc423a2367c9ef8707da9afac9367aecaf06d0a83cea381b3f4127f116d2d1a": {
+    "inputSize": 302654,
+    "outputSize": 255440,
+    "outputPath": "IMG_2751.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244645
+  },
+  "639317cc54808538249be8f1241fca438e49d1a09ceb18193dd75532054d6b0c": {
+    "inputSize": 466894,
+    "outputSize": 380232,
+    "outputPath": "IMG_2752.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784006244814
   }
 }
