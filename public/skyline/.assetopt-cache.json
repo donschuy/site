@@ -320,5 +320,12 @@
     "outputPath": "IMG_2972.webp",
     "outputFormat": "webp",
     "timestamp": 1784166847449
+  },
+  "049c35e78d5e95155326934ba5d18273c97e8283fa33e913f08905cbb6adbc4a": {
+    "inputSize": 2907978,
+    "outputSize": 2619024,
+    "outputPath": "IMG_2755.webp",
+    "outputFormat": "webp",
+    "timestamp": 1784168252118
   }
 }
