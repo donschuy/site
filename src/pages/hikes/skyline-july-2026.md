@@ -154,6 +154,3 @@ My grandson and wife pose at the stairs at the start of the trail system.
 
 
 ![](/skyline/IMG_2978.webp)
-
-
-[Home](https://donschuy.com)

@@ -101,5 +101,3 @@ wood is Red Maple.
 I hope the recipient enjoys her bowl. It looks like it could be used as a fruit bowl for a nice display.
 
 ![](/bowl-july-2026/IMG_3033.webp)
-
-[Home](https://donschuy.com)

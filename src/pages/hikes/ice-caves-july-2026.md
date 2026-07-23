@@ -51,5 +51,3 @@ My grandson enjoyed the hike back.
 We got to experience the boardwalk again on the return trip. You can see from this picture how long and impressive it is.
 
 ![Hiking back along the boardwalk.](/ice-caves/IMG_2639.webp)
-
-[Home](https://donschuy.com)

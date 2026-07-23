@@ -95,5 +95,3 @@ Here is the table with a couple coats of paint. The paint required four coats be
 And here is the resulting laundry room table in our laundry room. We store a shoe rack below it.
 
 ![](/laundry-table/IMG_3035.webp)
-
-[Home](https://donschuy.com)

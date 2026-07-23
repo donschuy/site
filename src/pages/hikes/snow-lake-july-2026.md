@@ -124,5 +124,3 @@ My granddaughter
 My wife and I were happy that our grandchildren were able to have this experience with us. They were rock solid and handled it well.
 
 From this point on the trail you can continue on to Gem Lake if you have the energy. It extends the length of the hike by quite a bit. My wife and I have done it several times, though it was rough going (at least for me) the first time round.
-
-[Home](https://donschuy.com)
