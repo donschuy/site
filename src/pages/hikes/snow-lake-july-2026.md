@@ -27,17 +27,17 @@ These large boulders are common in the area.
 
 ![View of a hill of boulders.](/snow-lake/IMG_2428.webp)
 
-I like to take advantage of the good lighting and scenic backgrounds for some portaits. Here is one of my grandson. My iPhone is set to Portrait mode, which causes the background to go softly out of focus.
+I like to take advantage of the good lighting and scenic backgrounds for some portraits. Here is one of my grandson. My iPhone is set to Portrait mode, which causes the background to go softly out of focus.
 
-![Portait photo of my grandson.](/snow-lake/IMG_2433.webp)
+![Portrait photo of my grandson.](/snow-lake/IMG_2433.webp)
 
-Likewise, a portait of my granddaughter taken with the lighting and scenery benefits.
+Likewise, a portrait of my granddaughter taken with the lighting and scenery benefits.
 
 ![Portrait photo of my granddaughter.](/snow-lake/IMG_2436.webp)
 
 Lots of vine maples, evergreens and mountainous rocks.
 
-![A view of the Pacific Northwest vegitation and mountainous scenery.](/snow-lake/IMG_2437.webp)
+![A view of the Pacific Northwest vegetation and mountainous scenery.](/snow-lake/IMG_2437.webp)
 
 An interesting wildflower
 
@@ -45,7 +45,7 @@ An interesting wildflower
 
 Another scenic view along the hike.
 
-![A vioew of evergreen trees and a rocky mountainous ridge.](/snow-lake/IMG_2450.webp)
+![A view of evergreen trees and a rocky mountainous ridge.](/snow-lake/IMG_2450.webp)
 
 The rocks on the trail are sharp. With the position of the trees to the ground; this picture shows the angle of the hill being hiked across.
 
@@ -101,7 +101,7 @@ Remains of some structure that includes a fireplace.
 
 A view of the lake shore from just off the trail.
 
-![The shore of Snow Lake with shallow water showing the rocks and dirt below the water. A mountanous ridge is around the back end of the lake.](/snow-lake/IMG_2509.webp)
+![The shore of Snow Lake with shallow water showing the rocks and dirt below the water. A mountainous ridge is around the back end of the lake.](/snow-lake/IMG_2509.webp)
 
 My granddaughter posing on a wooden walkway that is part of the trail that goes around to the back of Snow Lake.
 

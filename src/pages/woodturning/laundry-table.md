@@ -78,7 +78,7 @@ length after all. The poor joinery of the metal brackets caused them to be out o
 ![](/laundry-table/IMG_3003.webp)
 
 Dan also brought over these pieces which he had made before coming over. They add additional strength and also become the method of attaching
-the table top. Dan had me drill holes through them so I can use a screw and washer combination to attach the table top securly from the underside.
+the table top. Dan had me drill holes through them so I can use a screw and washer combination to attach the table top securely from the underside.
 The holes are drilled larger than required, allowing for the wood to move as the climate warms and cools in different seasons.
 
 ![](/laundry-table/IMG_3005.webp)

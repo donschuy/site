@@ -52,7 +52,7 @@ Here is the crack on the other side of the bowl. I decided to pour CA glue into 
 
 ![](/bowl-july-2026/IMG_3016.webp)
 
-Second problem is the shape of this block of wood will restrict what I can do with it unless I'm comforable with a hole in the bottom of the
+Second problem is the shape of this block of wood will restrict what I can do with it unless I'm comfortable with a hole in the bottom of the
 bowl. I decide I'm going to have turn this off; resulting in a smaller or more shallow bowl.
 
 ![](/bowl-july-2026/IMG_3018.webp)
