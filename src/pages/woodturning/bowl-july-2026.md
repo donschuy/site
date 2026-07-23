@@ -66,7 +66,7 @@ I'm worried it might not hold. I need thicker walls for the recess. Later I shou
 
 ![](/bowl-july-2026/IMG_3021.webp)
 
-I mount the bowl onto a check. The jaws of the chuck push out into the recess for a firm fit.
+I mount the bowl onto a chuck. The jaws of the chuck push out into the recess for a firm fit.
 
 ![](/bowl-july-2026/IMG_3022.webp)
 
