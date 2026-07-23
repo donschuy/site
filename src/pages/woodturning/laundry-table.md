@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/PageLayout.astro
-title: 'Laundry Table Disaster and Fix'
+title: 'Laundry Table Disaster and Recovery'
 pubDate: 2026-07-23
 description: 'Making a laundry room table.'
 author: 'Don Schuy'
 tags: ["woodturning"]
 ---
-# Laundry Table Disaster and Fix
+# Laundry Table Disaster and Recovery
 *July 22, 2026*
 
 I usually don't attempt to build furniture. After multiple tool investments, I got discouraged with wood working projects because the cost of furniture grade 
@@ -92,6 +92,10 @@ Here is the table with a couple coats of paint. The paint required four coats be
 
 ![](/laundry-table/IMG_3007.webp)
 
-And here is the resulting laundry room table in our laundry room. We store a shoe rack below it.
+And here is the resulting laundry room table.
+
+![](/laundry-table/IMG_3140.webp)
+
+The table in our laundry room where it is useful for folding clothes and other things. We store a shoe rack below it.
 
 ![](/laundry-table/IMG_3035.webp)
