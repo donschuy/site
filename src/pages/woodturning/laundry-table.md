@@ -23,7 +23,7 @@ the table legs.
 
 ![](/laundry-table/IMG_2983.webp)
 
-Here are the three legs next to each other as I was inspecting how well they matched.
+Here are the four legs next to each other as I was inspecting how well they matched.
 
 ![](/laundry-table/IMG_2986.webp)
 
@@ -49,11 +49,11 @@ length. It was clear that the table would not be usable and the project seems to
 This is what the brackets look like from the underside. The legs are not properly supported and are loose. The brackets had the tendency to push the wood out of
 alignment as I attempted to attach them.
 
-I called my brother, Dan, who has real wood working skills. He offered to come over and help me make it right.
+I called my brother, Dan, who has authentic wood working skills and common sense. He offered to come over and help me make it right.
 
 ![](/laundry-table/IMG_2995.webp)
 
-Dan told me to disassemble the table and we would build it properly when he came over. Here it is disassembled.
+Dan told me to disassemble the table and we would build it properly when he came over. Here it is disassembled again.
 
 ![](/laundry-table/IMG_2996.webp)
 
@@ -77,7 +77,7 @@ length after all. The poor joinery of the metal brackets caused them to be out o
 
 ![](/laundry-table/IMG_3003.webp)
 
-Dan also brought over these pieces which he had made before coming over. They add additional strength and also become the method of attaching
+Dan also brought over these additional brace pieces which he had made before coming over. They add additional strength and also become the method of attaching
 the table top. Dan had me drill holes through them so I can use a screw and washer combination to attach the table top securely from the underside.
 The holes are drilled larger than required, allowing for the wood to move as the climate warms and cools in different seasons.
 
