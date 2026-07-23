@@ -77,8 +77,8 @@ We are near the falls now. There is a small stream to cross.
 
 ![](/cherry-creek-falls/IMG_3111.webp)
 
-Finally, we are at the site. We got there soon enough that we could take pictures. Shortly after, the water was populated with many folks enjoying the water
-and getting their pictures taken in front of the falls.
+Finally, we are at the site. We got there soon enough that we could get some good pictures. Shortly after, the water was populated with many fellow hikers
+enjoying the water and it would be difficult to get pictures like this.
 
 ![](/cherry-creek-falls/IMG_3120.webp)
 
