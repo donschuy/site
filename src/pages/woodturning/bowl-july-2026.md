@@ -82,7 +82,8 @@ fraction of the dust and shavings. I don't want the dust in my lungs.
 ![](/bowl-july-2026/IMG_3024.webp)
 
 This is the fun, but challenging part. I need to maintain a consistent wall thickness. I make a mistake here and empty out the middle; which can
-contribute to the vibration of the outside walls of the bowl.
+contribute to the vibration of the outside walls of the bowl. It is best to leave a large mass in the middle for stability and remove it after the outer
+sides are done.
 
 ![](/bowl-july-2026/IMG_3025.webp)
 
