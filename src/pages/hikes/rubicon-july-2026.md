@@ -122,25 +122,37 @@ Along the hike, both the trail and the views of the lake are fascinating so I ca
 
 ![](/rubicon-july-2026/IMG_3711.webp)
 
-We take another break.
+We take another break. This hike is about 5 1/2 miles in and then we will be hiking 5 1/2 miles back.
 
 ![](/rubicon-july-2026/IMG_3712.webp)
 
 ![](/rubicon-july-2026/IMG_3714.webp)
 
+Off again.
+
 ![](/rubicon-july-2026/IMG_3715.webp)
+
+I get a portrait of the youngest hiker in the group.
 
 ![](/rubicon-july-2026/IMG_3718.webp)
 
 ![](/rubicon-july-2026/IMG_3723.webp)
 
+The pine cones from these trees are huge.
+
 ![](/rubicon-july-2026/IMG_3728.webp)
 
+Looking up hill.
+
 ![](/rubicon-july-2026/IMG_3731.webp)
+
+Another break and then we press on.
 
 ![](/rubicon-july-2026/IMG_3733.webp)
 
 ![](/rubicon-july-2026/IMG_3737.webp)
+
+Sometimes the trail is up above the lake and sometimes it is near the shore.
 
 ![](/rubicon-july-2026/IMG_3739.webp)
 
@@ -148,23 +160,35 @@ We take another break.
 
 ![](/rubicon-july-2026/IMG_3745.webp)
 
+I get some portraits of my wife and her cousin.
+
 ![](/rubicon-july-2026/IMG_3752.webp)
 
 ![](/rubicon-july-2026/IMG_3757.webp)
 
 ![](/rubicon-july-2026/IMG_3759.webp)
 
+The three ladies hiking together in conversation.
+
 ![](/rubicon-july-2026/IMG_3761.webp)
+
+Likewise for the guys.
 
 ![](/rubicon-july-2026/IMG_3764.webp)
 
 ![](/rubicon-july-2026/IMG_3766.webp)
 
+This rock formation is natural, but looks like an intentional sculpture.
+
 ![](/rubicon-july-2026/IMG_3767.webp)
+
+I get a nice shot of the ladies.
 
 ![](/rubicon-july-2026/IMG_3771.webp)
 
 ![](/rubicon-july-2026/IMG_3779.webp)
+
+We are near the destination. There is a well maintained walkway through some high rock face above the water.
 
 ![](/rubicon-july-2026/IMG_3782.webp)
 
@@ -172,15 +196,17 @@ We take another break.
 
 ![](/rubicon-july-2026/IMG_3804.webp)
 
+I convince the ladies into acting like they are holding up this rock. They are into it and quite convincing.
+
 ![](/rubicon-july-2026/IMG_3808.webp)
 
 ![](/rubicon-july-2026/IMG_3813.webp)
 
+Here is Calawee Cove Beach. It is quite populated as there is a road to it from above and many folks come in on boat.
+
 ![](/rubicon-july-2026/IMG_3816.webp)
 
-![](/rubicon-july-2026/IMG_3821.webp)
-
-![](/rubicon-july-2026/IMG_3822.webp)
+My wife, Ying, gets into her Hmong skirt as do the other two ladies. The water is great and we swim and take pictures.
 
 ![](/rubicon-july-2026/IMG_3824.webp)
 
@@ -188,7 +214,11 @@ We take another break.
 
 ![](/rubicon-july-2026/IMG_1481.webp)
 
+After some good times on the beach, we head for the long hike back.
+
 ![](/rubicon-july-2026/IMG_3836.webp)
+
+My wife and I take on the challenge of trying to keep up with the young guys. We are always a little bit behind them.
 
 ![](/rubicon-july-2026/IMG_3840.webp)
 
@@ -196,13 +226,19 @@ We take another break.
 
 ![](/rubicon-july-2026/IMG_3846.webp)
 
+Another couple of rock formations that looks sculpted.
+
 ![](/rubicon-july-2026/IMG_3848.webp)
 
 ![](/rubicon-july-2026/IMG_3849.webp)
 
+I get a closer shot on this one on the way back because it is so interesting.
+
 ![](/rubicon-july-2026/IMG_3851.webp)
 
 ![](/rubicon-july-2026/IMG_3855.webp)
+
+We finally make it back to where we started and with the three younger guys wait for the rest of the party.
 
 ![](/rubicon-july-2026/IMG_3859.webp)
 
