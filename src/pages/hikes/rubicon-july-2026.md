@@ -214,6 +214,10 @@ My wife, Ying, gets into her Hmong skirt as do the other two ladies. The water i
 
 ![](/rubicon-july-2026/IMG_1481.webp)
 
+Ying's cousin took this one. Much better and more vibrant picture than the ones I took.
+
+![](/rubicon-july-2026/ying.jpg)
+
 After some good times on the beach, we head for the long hike back.
 
 ![](/rubicon-july-2026/IMG_3836.webp)
