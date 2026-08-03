@@ -7,7 +7,7 @@ author: 'Don Schuy'
 tags: ["travel"]
 ---
 # Sacramento, Capitol Mall
-*July 24, 2026*
+*July 25, 2026*
 
 [Wikipedia - Capitol Mall](https://en.wikipedia.org/wiki/Capitol_Mall) for historic details.
 

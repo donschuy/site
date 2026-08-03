@@ -7,7 +7,7 @@ author: 'Don Schuy'
 tags: ["travel"]
 ---
 # Sunset on Kiva Beach, Lake Tahoe
-*July 24, 2026*
+*July 26, 2026*
 
 [Tahoe Beaches - Kiva Shoreline](https://www.tahoepublicbeaches.org/beaches/kiva-shoreline/) for site details.
 

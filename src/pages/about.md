@@ -32,5 +32,7 @@ I may also write tutorials and share “wisdom,” if that's truly what it could
 
 The site is built using the [Astro](https://astro.build/) web framework. I chose it because I'm familiar with generating static sites that can be served up quickly. With Markdown editors, I'm hoping to create content efficiently — maybe even on my phone or tablet, where I have easy access to recent photos.
 
+[This page](/dev/creating-a-page) has some documentation about the process I use to create a page.
+
 ## Contact
 Feel free to email me at [donschuy@outlook.com](mailto:donschuy@outlook.com).
