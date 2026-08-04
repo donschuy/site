@@ -4,7 +4,7 @@
     "quality": {
       "jpeg": 85,
       "png": 80,
-      "webp": 82,
+      "webp": "keep",
       "avif": 75
     },
     "stripMetadata": true

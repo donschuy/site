@@ -46,6 +46,11 @@ Two of the fellows in our party.
 
 ![](/rubicon-july-2026/IMG_3570.webp)
 
+Here is a photo of the couples with another camera. The colors are certainly more vivid than on my pictures; as if a UV filter was being used.
+
+![](/rubicon-july-2026/couples.jpeg)
+
+
 ![](/rubicon-july-2026/IMG_3589.webp)
 
 This is a water supply tank for the campsites below.

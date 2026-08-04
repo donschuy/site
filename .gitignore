@@ -4,6 +4,7 @@ dist/
 .astro/
 
 #original image files
+heic/
 images/
 
 # dependencies
