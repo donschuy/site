@@ -38,7 +38,7 @@ We had a lunch break and spent a bunch of time throwing rocks.
 
 The start of the hike back to the car.
 
-![A trail with mountains in the distance.](/ice-caves/IMG_2618.webp)
+![A trail with mountains in the distance.](/ice-caves/IMG_2615.webp)
 
 There were lots of flowers like this.
 
@@ -51,3 +51,7 @@ My grandson enjoyed the hike back.
 We got to experience the boardwalk again on the return trip. You can see from this picture how long and impressive it is.
 
 ![Hiking back along the boardwalk.](/ice-caves/IMG_2639.webp)
+
+An after the hike treat.
+
+![Two having an ice cream break](/ice-caves/IMG_2648.webp)
