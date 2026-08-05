@@ -7,8 +7,10 @@ usage() {
   echo "Scans the folder for HEIC files and deletes those that do not have"
   echo "a matching WEBP file (e.g., hello.heic is deleted if hello.webp does not exist)."
   echo
+  echo "When --delete is provided, any .mov files in the folder are also deleted."
+  echo
   echo "Options:"
-  echo "  --delete    Actually delete the HEIC files."
+  echo "  --delete    Actually delete the HEIC and MOV files."
   echo "              Without this flag, the script only prints what it would delete."
   exit 1
 }
@@ -48,8 +50,11 @@ fi
 # Move into folder
 cd "$FOLDER" || exit 1
 
-# Process HEIC files
 shopt -s nullglob
+
+########################################
+# Delete HEIC files with no matching WEBP
+########################################
 for heic in *.heic; do
   base="${heic%.*}"
   webp="${base}.webp"
@@ -63,4 +68,17 @@ for heic in *.heic; do
     fi
   fi
 done
+
+########################################
+# Delete MOV files (only when --delete)
+########################################
+for mov in *.mov; do
+  if $DELETE_MODE; then
+    echo "Deleting MOV file: $mov"
+    rm "$mov"
+  else
+    echo "Would delete MOV file: $mov"
+  fi
+done
+
 shopt -u nullglob
