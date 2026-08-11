@@ -96,6 +96,12 @@ code {
   align-self: flex-end;
 }
 
+.imessage-bubble.sms.sent {
+  background-color: #30D158;
+  color: #ffffff;
+  align-self: flex-end;
+}
+
 /* Sent bubble tail */
 .imessage-bubble.sent::before {
   content: "";
@@ -109,9 +115,22 @@ code {
   transform: rotate(45deg);
 }
 
+/* Sent bubble tail */
+.imessage-bubble.sms.sent::before {
+  content: "";
+  position: absolute;
+  right: -4px;
+  bottom: 6px;
+  width: 12px;
+  height: 12px;
+  background-color: #30D158;
+  border-bottom-right-radius: 12px;
+  transform: rotate(45deg);
+}
+
 /* RECEIVED (left side, grey bubble) */
 .imessage-bubble.received {
-  background-color: #e9e9eb;
+  background-color: #e0e0e0;
   color: #000000;
   align-self: flex-start;
 }
@@ -124,7 +143,7 @@ code {
   bottom: 6px;
   width: 12px;
   height: 12px;
-  background-color: #e9e9eb;
+  background-color: #e0e0e0;
   border-bottom-left-radius: 12px;
   transform: rotate(-45deg);
 }

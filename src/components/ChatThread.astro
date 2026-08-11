@@ -2,6 +2,7 @@
 interface Message {
   type: 'sent' | 'received';
   text: string;
+  sms: 'sms' | '';
 }
 
 interface Props {
@@ -13,7 +14,7 @@ const { messages } = Astro.props;
 
 <div class="chat-container">
   {messages.map((message) => (
-    <div class={`imessage-bubble ${message.type}`}>
+    <div class={`imessage-bubble ${message.sms} ${message.type}`}>
       {message.text}
     </div>
   ))}
