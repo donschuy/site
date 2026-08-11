@@ -57,6 +57,25 @@ cd "$IMG_DIR" || exit 1
 CPU_CORES=$(sysctl -n hw.ncpu)
 echo "Detected $CPU_CORES CPU cores."
 
+###############################################
+# Normalize uppercase extensions before scanning
+###############################################
+for f in *.*; do
+  [ -f "$f" ] || continue
+
+  ext="${f##*.}"
+  ext_lc="$(echo "$ext" | tr '[:upper:]' '[:lower:]')"
+
+  if [[ "$ext" != "$ext_lc" ]]; then
+    newname="${f%.*}.${ext_lc}"
+    echo "Renaming '$f' → '$newname'..."
+    mv "$f" "$newname"
+  fi
+done
+
+###############################################
+# Gather files
+###############################################
 shopt -s nullglob
 FILES=( *.jpeg *.jpg *.png *.heic )
 shopt -u nullglob
@@ -72,10 +91,29 @@ convert_one() {
   base="${f%.*}"
   tmp="$base.tmp.png"
 
-  # HEIC → PNG first, at up to 2048px width
+  # HEIC → PNG first, then rotate based on HEIC orientation
   if [[ "$ext" == "heic" ]]; then
+    echo "Reading orientation for '$f'..."
+    orientation=$(exiftool -Orientation# "$f" | awk '{print $NF}')
+
     echo "Converting HEIC → PNG (max width 2048) for '$f'..."
     sips --resampleWidth 2048 -s format png "$f" --out "$tmp" >/dev/null 2>&1
+
+    case "$orientation" in
+      3)
+        echo "Rotating 180° for '$f'..."
+        sips --rotate 180 "$tmp" >/dev/null 2>&1
+        ;;
+      6)
+        echo "Rotating 90° for '$f'..."
+        sips --rotate 90 "$tmp" >/dev/null 2>&1
+        ;;
+      8)
+        echo "Rotating 270° for '$f'..."
+        sips --rotate 270 "$tmp" >/dev/null 2>&1
+        ;;
+    esac
+
     input="$tmp"
   else
     input="$f"
@@ -109,8 +147,8 @@ else
   running_jobs=0
   for f in "${FILES[@]}"; do
     convert_one "$f" &
-    ((running_jobs++))
-    if (( running_jobs >= CPU_CORES )); then
+    running_jobs=$((running_jobs+1))
+    if [[ "$running_jobs" -ge "$CPU_CORES" ]]; then
       wait
       running_jobs=0
     fi

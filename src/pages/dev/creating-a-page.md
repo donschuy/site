@@ -42,7 +42,7 @@ This script will convert the .heic files to .webp and compress them with a maxim
 the PC did not support any free runtime that would preserve the "Display P3" image palette of colors used in a .heic file.*
 
 I then create a link to the new page on the index.astro page which is the home page of the site.
-````HTML
+````html
 <li>
   <a href="/travel/fallen-leaf-lake">Fallen Leaf Lake</a>
   <div class="entry-date">July 29, 2026</div>

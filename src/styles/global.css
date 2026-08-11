@@ -67,3 +67,64 @@ code {
   font-family: 'Courier New', Courier, monospace;
   font-size: 18px;
 }
+
+/* Container to simulate a chat thread layout */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 320px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+/* Base bubble styles */
+.imessage-bubble {
+  max-width: 70%;
+  padding: 10px 16px;
+  border-radius: 20px;
+  position: relative;
+  word-wrap: break-word;
+  display: inline-block;
+}
+
+/* SENT (right side, blue bubble) */
+.imessage-bubble.sent {
+  background-color: #0A84FF;
+  color: #ffffff;
+  align-self: flex-end;
+}
+
+/* Sent bubble tail */
+.imessage-bubble.sent::before {
+  content: "";
+  position: absolute;
+  right: -4px;
+  bottom: 6px;
+  width: 12px;
+  height: 12px;
+  background-color: #0A84FF;
+  border-bottom-right-radius: 12px;
+  transform: rotate(45deg);
+}
+
+/* RECEIVED (left side, grey bubble) */
+.imessage-bubble.received {
+  background-color: #e9e9eb;
+  color: #000000;
+  align-self: flex-start;
+}
+
+/* Received bubble tail */
+.imessage-bubble.received::before {
+  content: "";
+  position: absolute;
+  left: -4px;
+  bottom: 6px;
+  width: 12px;
+  height: 12px;
+  background-color: #e9e9eb;
+  border-bottom-left-radius: 12px;
+  transform: rotate(-45deg);
+}

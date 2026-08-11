@@ -1,0 +1,20 @@
+---
+interface Message {
+  type: 'sent' | 'received';
+  text: string;
+}
+
+interface Props {
+  messages: Message[];
+}
+
+const { messages } = Astro.props;
+---
+
+<div class="chat-container">
+  {messages.map((message) => (
+    <div class={`imessage-bubble ${message.type}`}>
+      {message.text}
+    </div>
+  ))}
+</div>
