@@ -27,9 +27,9 @@ screens as each player works their way through 50 screens. The match is decided 
 Charlie's game takes inspiration from the game [Dustforce](https://en.wikipedia.org/wiki/Dustforce) and other precision 2D platformers. 
 [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy) and [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) are other
 games in the genre of precision 2D platformers. Dustforce has been a favorite of Charlie. Years ago, the developers of Dustforce recognized
-Charlie's community contributions to the game by sending him original artwork from the game.
+Charlie's community contributions to Dustforce by sending him original artwork from the game.
 
-If you want to try the game, be warned that it is tough. You could watch the play throughs from the Mystery Tournament final
+If you want to try A-VA: The Android's Heart, be warned that it is a challenge. You could watch the play throughs from the Mystery Tournament final
 match, though that may spoil the game for you if you prefer to figure out the levels on your own. This kind of game is short,
 but you likely want to replay it multiple times to get your best time score. One feature of the game is that once to beat a level
 you have the option to view the "developer replay".
