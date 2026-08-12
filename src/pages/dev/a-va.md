@@ -16,7 +16,7 @@ final of the 20th annual Mystery Tournament.
 
 The itch.io store page for the game is here: [A-VA: The Android's Heart](https://krankdud.itch.io/a-va).
 
-The Mystery Tournament is a competition where highly skilled gamers play against each other to identify a champion. In each contest, the players
+The Mystery Tournament is a competition where highly skilled gamers play against each other to identify this year's champion. In each contest, the players
 are playing a game they have never played before; hence, the "Mystery" part of this.
 
 Here is a [YouTube playlist of all of the 262 videos from this years tournament.](https://www.youtube.com/playlist?list=PLvokTc7DrMSOkiAZV9MAO1oz-tEEfmvr0)
@@ -24,12 +24,15 @@ Here is a [YouTube playlist of all of the 262 videos from this years tournament.
 Here is [the final match where gamer FARIS_V5 plays against AND4H.](https://www.youtube.com/watch?v=MD310hthDCs&t=3338s) The video shows two
 screens as each player works their way through 50 screens. The match is decided after around 40 minutes.
 
-Charlie's game game takes inspiration from the game Dustforce and other precision 2D platformers. Super Meat Boy and Celeste are other
-games in the genre of precision 2D platformers. Dustforce has been a favorite of Charlie. The developers of Dustforce recognized
-Charlie's communnity contributions to the game by sending him original artwork from the game.
+Charlie's game takes inspiration from the game [Dustforce](https://en.wikipedia.org/wiki/Dustforce) and other precision 2D platformers. 
+[Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy) and [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) are other
+games in the genre of precision 2D platformers. Dustforce has been a favorite of Charlie. Years ago, the developers of Dustforce recognized
+Charlie's community contributions to the game by sending him original artwork from the game.
 
 If you want to try the game, be warned that it is tough. You could watch the play throughs from the Mystery Tournament final
-match, though that may spoil the game if you prefer to figure out the levels on your own.
+match, though that may spoil the game for you if you prefer to figure out the levels on your own. This kind of game is short,
+but you likely want to replay it multiple times to get your best time score. One feature of the game is that once to beat a level
+you have the option to view the "developer replay".
 
 Since I can only get into the game about seven levels before getting frustrated (I don't have the skills), Charlie provided me some
 in-game screen shots of some of the levels.
