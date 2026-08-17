@@ -12,7 +12,8 @@ tags: ["woodturning"]
 Today I decided to knock out a bowl but it went pretty quickly so I decided to press on and start a second one.
 The first one became a small standard bowl whereas the second one became more of an art piece than a practical bowl.
 
-This chunk of wood is a store bought round of maple wood sold specifically for turning. It was gifted to me by my brother Dan.
+This chunk of wood is a store bought round of maple wood sold specifically for turning. It was gifted to me by my brother Dan
+(as was the second piece of wood I'll be using.)
 
 I screw on a faceplate attachment that the chuck can lock into.
 
