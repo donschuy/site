@@ -92,7 +92,7 @@ downloaded the trail map so we would have it even if cell service is reachable. 
 
 ![](/walupt-creek-falls-august-2026/IMG_4453.webp)
 
-We are above the falls now. There is an lookout here on one of the cliffs, but it really doesn't look safe so we don't attempt it. We will see
+We are above the falls now. There is a lookout here on one of the cliffs, but it really doesn't look safe so we don't attempt it. We will see
 everything once we arrive at the bottom of the falls.
 
 ![](/walupt-creek-falls-august-2026/IMG_4454.webp)
@@ -170,7 +170,7 @@ There are flowers growing here.
 
 ![](/walupt-creek-falls-august-2026/IMG_4486.webp)
 
-We are shooting into the sun so my phone camera flares. Make it look like Ying is taking a picture of a rainbow or we are experiencing
+We are shooting into the sun so my phone camera flares; making it look like Ying is taking a picture of a rainbow or we are experiencing
 a heavenly event with a spirit.
 
 ![](/walupt-creek-falls-august-2026/IMG_4488.webp)
