@@ -9,7 +9,7 @@ tags: ["hiking"]
 # Park Butte Lookout
 *August 21, 2026*
 
-[Washington Trails Association page](hhttps://www.wta.org/go-hiking/hikes/park-butte) for this hike.
+[Washington Trails Association page](https://www.wta.org/go-hiking/hikes/park-butte) for this hike.
 [All Trails page](https://www.alltrails.com/trail/us/washington/park-butte-lookout-trail) for this hike.
 
 This one is an 8 mile round trip. We did this on a Friday and it wasn't overly crowded which was surprising for it being a favorite of many.
