@@ -18,7 +18,7 @@ This hike is around 10 miles in length; approximately 5 miles in and 5 miles bac
 it is 9.5 miles round trip.
 
 The elevation gain is 3,284 feet, you are 9,735 feet from sea level at the top. We found the hike challenging for our group, but younger hikers were
-moving along a lot more quickly. As it was, we were a slower and ended up finishing up the trail by flashlight via our phones.
+moving along a lot more quickly. As it was, we ended up finishing up the last part of the trail by flashlight.
 
 I took around 340 pictures and edited them down to 90, which is still a lot for a single web page. You may want to scroll past the photos that you find
 less interesting.
@@ -259,7 +259,7 @@ This tree has a super strong trunk out of necessity. It appears to have to withs
 
 ![](/mount-tallac/IMG_5275.webp)
 
-At this point we are going to be going up steep rocks. The trail is sometimes hard to decypher but we manage to always find it.
+At this point we are going up steep rocks. The trail is sometimes hard to decypher but we manage to always find it.
 
 ![](/mount-tallac/IMG_5277.webp)
 
