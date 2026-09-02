@@ -43,7 +43,7 @@ Steve points to our destination.
 
 ![](/mount-tallac/IMG_5121.webp)
 
-Ying and Mai pose for some photos. We are above Fallen Leaf Lake; which is the first of three lakes on this hike. Unlike this one, the other two are very small.
+Ying and Mai pose for some photos. We are above Fallen Leaf Lake.
 
 ![](/mount-tallac/IMG_5124.webp)
 
@@ -253,7 +253,7 @@ More uphill and we really haven't gotten to the hard part yet.
 
 ![](/mount-tallac/IMG_5273.webp)
 
-This tree has a super strong trunk out of necessity. It appears to have to withstand some very strong winds.
+This tree has a super thick trunk out of necessity. It appears to have to withstand some very strong winds. Ying calls this the "lonely tree".
 
 ![](/mount-tallac/IMG_5274.webp)
 
@@ -265,7 +265,7 @@ At this point we are going up steep rocks. The trail is sometimes hard to decyph
 
 ![](/mount-tallac/IMG_5278.webp)
 
-Looking back down at that tree.
+Looking back down at the lonely tree.
 
 ![](/mount-tallac/IMG_5279.webp)
 
@@ -288,7 +288,7 @@ all of the way back.
 
 ![](/mount-tallac/IMG_5288.webp)
 
-I capture shots of the world around us.
+I take pictures of the world around us.
 
 ![](/mount-tallac/IMG_5289.webp)
 
