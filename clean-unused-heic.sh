@@ -4,13 +4,11 @@
 usage() {
   echo "Usage: $0 [--delete] /path/to/folder"
   echo
-  echo "Scans the folder for HEIC files and deletes those that do not have"
-  echo "a matching WEBP file (e.g., hello.heic is deleted if hello.webp does not exist)."
-  echo
-  echo "When --delete is provided, any .mov files in the folder are also deleted."
+  echo "Scans the folder for .heic and .HEIC files and deletes those that do not"
+  echo "have a corresponding lowercase .webp file (e.g., IMG_4923.webp)."
   echo
   echo "Options:"
-  echo "  --delete    Actually delete the HEIC and MOV files."
+  echo "  --delete    Actually delete the HEIC/HEIC files."
   echo "              Without this flag, the script only prints what it would delete."
   exit 1
 }
@@ -50,24 +48,25 @@ fi
 # Move into folder
 cd "$FOLDER" || exit 1
 
+# Enable case-insensitive globbing so *.heic matches .heic and .HEIC
+shopt -s nocaseglob
 shopt -s nullglob
 
-########################################
-# Delete HEIC files with no matching WEBP
-########################################
+# Process HEIC files
 for heic in *.heic; do
-  base="${heic%.*}"
-  webp="${base}.webp"
+  base="${heic%.*}"        # e.g., IMG_4923
+  webp="${base}.webp"      # always lowercase
 
   if [ ! -f "$webp" ]; then
     if $DELETE_MODE; then
-      echo "Deleting unused HEIC: $heic"
+      echo "Deleting HEIC without matching WEBP: $heic"
       rm "$heic"
     else
-      echo "Would delete unused HEIC: $heic"
+      echo "Would delete HEIC without matching WEBP: $heic"
     fi
   fi
 done
+
 
 ########################################
 # Delete MOV files (only when --delete)
@@ -81,4 +80,6 @@ for mov in *.mov; do
   fi
 done
 
+# Restore globbing defaults
+shopt -u nocaseglob
 shopt -u nullglob
