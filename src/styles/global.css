@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-color: lab(76.38% -14.26 -10.97);
+  background-color: #bcbcbc;
 }
 
 h1, h2, h3, h4 {
@@ -42,7 +42,7 @@ footer {
 }
 
 a, a:visited {
-  color: #0a2f62;
+  color: #16620a;
   text-decoration: none;
   font-weight: 700;
 }
