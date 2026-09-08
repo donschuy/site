@@ -30,7 +30,7 @@ magick "$INPUT" \
   -crop "${WIDTH}x${HEIGHT}+0+0" +repage \
   -define webp:lossless=false \
   -define webp:method=6 \
-  -quality 70 \
+  -quality 55 \
   "$OUT"
 
 echo "Preview image created: $OUT (1200x627)"
