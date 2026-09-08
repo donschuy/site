@@ -22,12 +22,12 @@ WIDTH=1200
 HEIGHT=627
 
 # Resize to fit within 1200x627 while preserving aspect ratio,
-# then pad/extend to EXACT dimensions.
+# cropping as needed.
 magick "$INPUT" \
   -auto-orient \
-  -resize "${WIDTH}x${HEIGHT}" \
+  -resize "${WIDTH}x${HEIGHT}^" \
   -gravity center \
-  -extent "${WIDTH}x${HEIGHT}" \
+  -crop "${WIDTH}x${HEIGHT}+0+0" +repage \
   -define webp:lossless=false \
   -define webp:method=6 \
   -quality 70 \
