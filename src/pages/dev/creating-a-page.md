@@ -141,6 +141,10 @@ We had a relaxed time after our previous days of hiking.
 
 The resulting page is [here](/travel/fallen-leaf-lake).
 
+I've found I can do text edits on the site via my iPad using [vscode.dev](https://vscode.dev) and logging
+into the site's GitHub respository. However, the image processing needs to be done on my mac laptop, and
+since the site is primarily a bunch of photos, I'm pretty limited editing it on the iPad.
+
 My convert-to-webp.sh script has been updated many times as I tried various tools to convert the images.
 I settled with using Image Magick, which is a free download and has all the options I need to configure
 the conversion for an optimal result. Basically, an image can be resized and compressed, both operations
