@@ -5,6 +5,10 @@ pubDate: 2026-09-01
 description: 'Hike the trail to see the three small Angora Lakes near Lake Tahoe.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/angora-lakes"
+preview: "angora-lakes/preview.webp"
+previewAltText: "The third lake on the Angora Lakes Trail."
+
 ---
 # Angora Lakes Trail
 *September 1, 2026*

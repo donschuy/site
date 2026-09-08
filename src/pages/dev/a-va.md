@@ -6,7 +6,7 @@ description: "Charlie makes a video game and posts it on itch.io, A-VA The Andro
 author: 'Don Schuy'
 tags: ["dev"]
 pageUrl: "dev/a-va"
-preview: "dev/a-va/preview.webp"
+preview: "a-va/preview.webp"
 previewAltText: "The first level screenshot of A-VA The Android's Heart game."
 
 ---
