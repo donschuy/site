@@ -5,6 +5,9 @@ pubDate: 2026-08-10
 description: 'Demonstrating woodturning a bowl to a neighbor.'
 author: 'Don Schuy'
 tags: ["woodturning"]
+pageUrl: "woodturning/bowl-for-neighbor"
+preview: "bowl-for-neighbor/preview.webp"
+previewAltText: "A small wooden bowl siting on a counter top."
 ---
 # Bowl for a Neighbor
 *August 8, 2026*

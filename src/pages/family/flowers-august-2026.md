@@ -5,6 +5,9 @@ pubDate: 2026-08-10
 description: 'Watering my wife''s flowers and yard plants.'
 author: 'Don Schuy'
 tags: ["family"]
+pageUrl: "family/flowers-august-2026"
+preview: "flowers-august-2026/preview.webp"
+previewAltText: "Zennia flowers in a flower garden."
 ---
 # Watering my Wife's Flowers
 *August 8, 2026*
