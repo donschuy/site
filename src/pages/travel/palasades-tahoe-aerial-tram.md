@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Palasades Tahoe Aerial Tram'
 pubDate: 2026-08-03
 description: 'Ride up the Palasades Tahoe aerial tram off-season'

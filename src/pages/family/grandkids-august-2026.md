@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Grandkids at the house this weekend'
 pubDate: 2026-08-04
 description: 'Family vist with all four grandkids at the house today'

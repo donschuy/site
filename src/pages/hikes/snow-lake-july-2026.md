@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Snow Lake'
 pubDate: 2026-07-06
 description: 'Hiking the popular Snow Lake trail.'

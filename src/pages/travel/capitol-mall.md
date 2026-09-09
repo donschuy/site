@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Capitol Mall'
 pubDate: 2026-08-01
 description: 'Visiting the Sacramento Capitol Mall.'

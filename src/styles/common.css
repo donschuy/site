@@ -1,0 +1,43 @@
+html {
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+body {
+  background-color: #fff;
+}
+
+footer {
+  font-size: 10px;
+  color: #444444;
+  a, a:visited {
+  color: #444444;
+  }
+}
+
+.entry-date {
+  font-size: 14px;
+  color: #444444;
+}
+
+a, a:visited {
+  color: #16620a;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+nav {
+  padding-bottom: 20px;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    li {
+      padding-bottom: 8px;
+    }
+  }
+  > a {
+    padding-right: 20px;
+  } 
+}

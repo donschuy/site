@@ -1,5 +1,6 @@
 ---
-import '../styles/global.css';
+import '../styles/common.css';
+import '../styles/article.css';
 const { frontmatter } = Astro.props;
 const site = 'https://donschuy.com/';
 ---
@@ -36,7 +37,7 @@ const site = 'https://donschuy.com/';
 
     <title>Don Schuy's Activity Book</title>
   </head>
-  <body class="page">
+  <body>
     <nav>
       <a href="/">Home</a>
       <a href="/about">About</a>

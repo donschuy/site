@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Sand Harbour'
 pubDate: 2026-08-03
 description: 'Evening swim at Sand Harbour'

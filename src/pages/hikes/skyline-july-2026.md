@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Skyline Trail Loop'
 pubDate: 2026-07-14
 description: 'Mount Rainier, Paradise - Skyline Trail Loop.'

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Laundry Table Disaster and Recovery'
 pubDate: 2026-07-23
 description: 'Making a laundry room table.'

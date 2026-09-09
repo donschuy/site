@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: "A-VA The Android's Heart"
 pubDate: 2026-08-12
 description: "Charlie makes a video game and posts it on itch.io, A-VA The Android's Heart."

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Sunset on Kiva Beach, Lake Tahoe'
 pubDate: 2026-08-01
 description: 'Spending the evening at a dock on Kiva Beach, Lake Tahoe'

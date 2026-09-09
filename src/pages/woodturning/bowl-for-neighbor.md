@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Bowl for a Neighbor'
 pubDate: 2026-08-10
 description: 'Demonstrating woodturning a bowl to a neighbor.'

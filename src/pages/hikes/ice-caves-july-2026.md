@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Big Four Ice Caves'
 pubDate: 2026-07-09
 description: 'Short hike to Big Four Mountain Ice Caves.'

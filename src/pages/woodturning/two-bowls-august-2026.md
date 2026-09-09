@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Two bowls'
 pubDate: 2026-08-14
 description: 'Demonstrating woodturning a bowl to a neighbor.'

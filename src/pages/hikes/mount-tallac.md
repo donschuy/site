@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Mount Tallac, Lake Tahoe'
 pubDate: 2026-08-31
 description: 'Hike to the peak of Mount Tallac in the Lake Tahoe area.'

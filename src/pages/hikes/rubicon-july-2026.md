@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Calawee Cove Beach via the Rubicon trail'
 pubDate: 2026-08-02
 description: 'Hiking to Calawee Cove Beach via the Rubicon trail.'

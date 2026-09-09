@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Angora Lakes'
 pubDate: 2026-09-01
 description: 'Hike the trail to see the three small Angora Lakes near Lake Tahoe.'

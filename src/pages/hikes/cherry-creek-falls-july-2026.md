@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Cherry Creek Falls'
 pubDate: 2026-07-23
 description: 'Short hike to Big Four Mountain Ice Caves.'

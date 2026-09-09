@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Lake Genevieve and Lake Crag'
 pubDate: 2026-08-01
 description: 'Hiking to Lake Genevieve and Lake Crag in the Lake Tahoe area.'

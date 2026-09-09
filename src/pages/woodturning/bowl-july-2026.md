@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Bowl for Sister-In-Law'
 pubDate: 2026-07-22
 description: 'Making a bowl for a gift.'

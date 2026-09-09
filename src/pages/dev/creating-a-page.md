@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'How I create a page on my site'
 pubDate: 2026-08-04
 description: 'How I create a new page on my activity book site.'
@@ -98,7 +98,7 @@ The resulting Markdown looks like this:
 
 ````markdown
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Fallen Leaf Lake'
 pubDate: 2026-08-03
 description: 'Family gathering at Fallen Leaf Lake in the Lake Tahoe area'

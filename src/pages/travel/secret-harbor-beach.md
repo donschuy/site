@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Secret Harbor Beach, Lake Tahoe'
 pubDate: 2026-08-30
 description: 'Visiting Secret Harbor Beach on Lake Tahoe with family'

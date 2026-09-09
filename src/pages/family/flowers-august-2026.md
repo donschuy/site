@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'August Flowers'
 pubDate: 2026-08-10
 description: 'Watering my wife''s flowers and yard plants.'

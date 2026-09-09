@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Fallen Leaf Lake'
 pubDate: 2026-08-03
 description: 'Family gathering at Fallen Leaf Lake in the Lake Tahoe area'

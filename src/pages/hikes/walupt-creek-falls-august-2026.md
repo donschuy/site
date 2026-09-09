@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Walupt Creek Falls'
 pubDate: 2026-08-20
 description: 'Hike and visit the Walupt Creek Falls in Washington State.'

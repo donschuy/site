@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Park Butte Lookout'
 pubDate: 2026-08-21
 description: 'Hike to the Park Butte Lookout.'

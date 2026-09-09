@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/ArticleLayout.astro
 title: 'Logan Shoals Vista Point, Lake Tahoe'
 pubDate: 2026-08-30
 description: 'Road side vista point on Lake Tahoe'
