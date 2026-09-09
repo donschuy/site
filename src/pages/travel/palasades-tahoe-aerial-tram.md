@@ -5,6 +5,9 @@ pubDate: 2026-08-03
 description: 'Ride up the Palasades Tahoe aerial tram off-season'
 author: 'Don Schuy'
 tags: ["travel"]
+pageUrl: "travel/palasades-tahoe-aerial-tram"
+preview: "palasades-tahoe-aerial-tram/preview.webp"
+previewAltText: "An outside view of a tram car coming down taken from inside a tram car going up."
 ---
 # Palasades Tahoe Aerial Tram Lift
 *September 2, 2026*

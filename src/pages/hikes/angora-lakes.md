@@ -8,7 +8,6 @@ tags: ["hiking"]
 pageUrl: "hikes/angora-lakes"
 preview: "angora-lakes/preview.webp"
 previewAltText: "The third lake on the Angora Lakes Trail."
-
 ---
 # Angora Lakes Trail
 *September 1, 2026*

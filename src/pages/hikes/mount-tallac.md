@@ -5,6 +5,9 @@ pubDate: 2026-08-31
 description: 'Hike to the peak of Mount Tallac in the Lake Tahoe area.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/mount-tallac"
+preview: "mount-tallac/preview.webp"
+previewAltText: "View of Lake Tahoe in the far distance taken near the top of Mount Tallac."
 ---
 # Mount Tallac Trail, Lake Tahoe
 *August 31, 2026*
