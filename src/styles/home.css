@@ -1,3 +1,5 @@
+/* Obsolete? Included in HomeLayout.astro which is currently only used in about.md and subscribe-form.mdx */
+
 img {
   display: inline-block;
   box-sizing: border-box;
@@ -17,9 +19,4 @@ footer {
   a, a:visited {
   color: #444444;
   }
-}
-
-.entry-date {
-  font-size: 14px;
-  color: #444444;
 }

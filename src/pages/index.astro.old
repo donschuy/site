@@ -1,0 +1,89 @@
+---
+import '../styles/common.css';
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/icons8-tree-pulsar-color-32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Don Schuy's Activity Book</title>
+	</head>
+	<body class="home">
+		<h1>Don Schuy's Activity Book</h1>
+    <nav>
+      <a href="/about">About</a>
+      <a href="/subscribe-form">Subscribe</a>
+    </nav>
+
+    <nav>
+      <ul>
+				<li><a href="/travel/palasades-tahoe-aerial-tram">Palasades Tahoe Aerial Tram</a>
+          <div class="entry-date">September 2, 2026</div></li>
+				<li><a href="/hikes/angora-lakes">Angora Lakes Trail, Lake Tahoe</a>
+          <div class="entry-date">September 1, 2026</div></li>
+				<li><a href="/hikes/mount-tallac">Mount Tallac Trail, Lake Tahoe</a>
+          <div class="entry-date">August 31, 2026</div></li>
+				<li><a href="/travel/secret-harbor-beach">Secret Harbor Beach, Lake Tahoe</a>
+          <div class="entry-date">August 30, 2026</div></li>
+				<li><a href="/travel/logan-shoals-vista-point">Logan Shoals Vista Point, Lake Tahoe</a>
+          <div class="entry-date">August 30, 2026</div></li>
+				<li><a href="/hikes/park-butte-lookout-august-2026">Park Butte Lookout</a>
+          <div class="entry-date">August 21, 2026</div></li>
+				<li><a href="/hikes/walupt-creek-falls-august-2026">Walupt Creek Falls</a>
+          <div class="entry-date">August 20, 2026</div></li>
+        <li><a href="/woodturning/two-bowls-august-2026">Two bowls</a>
+          <div class="entry-date">August 14, 2026</div></li>
+        <li><a href="/dev/a-va">A-VA: The Android's Heart</a>
+          <div class="entry-date">August 12, 2026</div></li>
+        <li><a href="/retro/ti994a">Restoring a Texas Instruments TI-99/4A Computer</a>
+          <div class="entry-date">August 11, 2026</div></li>
+        <li><a href="/family/flowers-august-2026">Watering my Wife's Flowers</a>
+          <div class="entry-date">August 8, 2026</div></li>
+        <li><a href="/woodturning/bowl-for-neighbor">Bowl for a Neighbor</a>
+          <div class="entry-date">August 8, 2026</div></li>
+        <li><a href="/family/grandkids-august-2026">Grandkids at the house this weekend</a>
+          <div class="entry-date">August 3, 2026</div></li>
+        <li><a href="/dev/creating-a-page">How I create a page on my site</a>
+          <div class="entry-date">August 3, 2026</div></li>
+        <li><a href="/family/dan-shed">Dan's Backyard Shed Build</a>
+          <div class="entry-date">August 2, 2026</div></li>
+        <li><a href="/travel/sand-harbor">Sand Harbor</a>
+          <div class="entry-date">July 29, 2026</div></li>
+				<li><a href="/travel/fallen-leaf-lake">Fallen Leaf Lake</a>
+          <div class="entry-date">July 29, 2026</div></li>
+				<li><a href="/hikes/rubicon-july-2026">Rubicon Trail to Calawee Cove Beach</a>
+          <div class="entry-date">July 28, 2026</div></li>
+				<li><a href="/hikes/lake-genevieve-july-2026">Lake Genevieve and Lake Crag</a>
+          <div class="entry-date">July 27, 2026</div></li>
+				<li><a href="/travel/kiva-beach">Sunset on a Kiva Beach dock</a>
+          <div class="entry-date">July 26, 2026</div></li>
+				<li><a href="/travel/capitol-mall">Sacramento, Capitol Mall</a>
+          <div class="entry-date">July 25, 2026</div></li>
+				<li><a href="/hikes/cherry-creek-falls-july-2026">Cherry Creek Falls</a>
+          <div class="entry-date">July 23, 2026</div></li>
+        <li><a href="/woodturning/laundry-table">Laundry Table Disaster and Recovery</a>
+          <div class="entry-date">July 22, 2026</div></li>
+        <li><a href="/woodturning/bowl-july-2026">Bowl for Sister-In-Law</a>
+          <div class="entry-date">July 22, 2026</div></li>
+        <li><a href="/retro/atari-800xl">Atari 800XL</a>
+          <div class="entry-date">July 15, 2026</div></li>
+        <li><a href="/hikes/skyline-july-2026">Mount Rainier, Paradise - Skyline Trail Loop</a>
+          <div class="entry-date">July 14, 2026</div></li>
+				<li><a href="/hikes/ice-caves-july-2026">Big Four Ice Caves</a>
+          <div class="entry-date">July 9, 2026</div></li>
+				<li><a href="/hikes/snow-lake-july-2026">Snow Lake</a>
+          <div class="entry-date">July 6, 2026</div></li>
+      </ul>
+    </nav>
+
+		<footer>
+      <div>© 2026 Don Schuy. All rights reserved.</div>
+      <div><a target="_blank" href="https://icons8.com/icon/nVbBv1tBlyZJ/tree">Tree</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></div>
+    </footer>
+	</body>
+</html>
