@@ -1,18 +1,19 @@
 li.card {
   display: inline-block;
   box-sizing: border-box;
-  width: 430px;
+  width: 380px;
   height: auto;
   border: 16px solid #fafafa;
   box-shadow:
       0 4px 6px rgba(0,0,0,0.25),
       0 1px 3px rgba(0,0,0,0.15);
   border-radius: 4px;
-  margin: 10px;
+  margin: 5px;
+  margin-right: 10px;
 
   img {
     margin-top: 4px;
-    width: 400px;
+    width: 340px;
     border-width: 1px;
     border-color: #aaa;
     border-style: solid;
