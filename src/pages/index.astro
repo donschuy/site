@@ -26,11 +26,12 @@ const articles = data.articles;
     <nav>
       {articles.map(article => (
         <li class="card">
-          {article.preview &&
-            <div><img src={article.preview} /></div>
-          }
-          <a href={article.href}>{article.title}</a>
-          <div class="entry-date">{article["entry-date"]}</div>
+          <a href={article.href}>{article.title}
+            {article.preview &&
+              <div><img src={article.preview} /></div>
+            }
+            <div class="entry-date">{article["entry-date"]}</div>
+          </a>
         </li>
       ))}
     </nav>

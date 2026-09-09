@@ -11,11 +11,16 @@ li.card {
   margin: 10px;
 
   img {
+    margin-top: 4px;
     width: 400px;
+    border-width: 1px;
+    border-color: #aaa;
+    border-style: solid;
   }
 }
 
 .entry-date {
   font-size: 14px;
-  color: #444444;
+  font-weight: 300;
+  color: #444;
 }
