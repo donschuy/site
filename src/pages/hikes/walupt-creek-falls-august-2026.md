@@ -5,6 +5,9 @@ pubDate: 2026-08-20
 description: 'Hike and visit the Walupt Creek Falls in Washington State.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/walupt-creek-falls-august-2026"
+preview: "walupt-creek-falls-august-2026/preview.webp"
+previewAltText: "View of the Walupt Creek water falls in Washington State."
 ---
 # Walupt Creek Falls
 *August 20, 2026*

@@ -5,6 +5,9 @@ pubDate: 2026-08-30
 description: 'Road side vista point on Lake Tahoe'
 author: 'Don Schuy'
 tags: ["travel"]
+pageUrl: "travel/logan-shoals-vista-point"
+preview: "logan-shoals-vista-point/preview.webp"
+previewAltText: "View of Lake Tahoe from the Logan Shoals Vista Point."
 ---
 # Logan Shoals Vista Point, Lake Tahoe
 *August 30, 2026*
@@ -24,10 +27,6 @@ This is the view from the road.
 After climbing down some, this is the view looking back up.
 
 ![](/logan-shoals-vista-point/IMG_4852.webp)
-
-It was clear here that you could go further down, maybe all of the way to the water.
-
-![](/logan-shoals-vista-point/IMG_4854.webp)
 
 Found a lizard and took a couple pictures while trying not to scare him into hiding. My [web search](https://www.bing.com/images/search?q=western+fence+lizard&form=IACFSM&first=1) indicates it is a Western Fence lizard.
 

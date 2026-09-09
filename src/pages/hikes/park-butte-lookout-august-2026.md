@@ -5,6 +5,9 @@ pubDate: 2026-08-21
 description: 'Hike to the Park Butte Lookout.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/park-butte-lookout"
+preview: "park-butte-lookout/preview.webp"
+previewAltText: "View of Lake Tahoe from the Logan Shoals Vista Point."
 ---
 # Park Butte Lookout
 *August 21, 2026*

@@ -15,27 +15,32 @@
     {
       "href": "/hikes/mount-tallac",
       "title": "Mount Tallac Trail, Lake Tahoe",
-      "entry-date": "August 31, 2026"
+      "entry-date": "August 31, 2026",
+      "preview": "mount-tallac/preview.webp"
     },
     {
       "href": "/travel/secret-harbor-beach",
       "title": "Secret Harbor Beach, Lake Tahoe",
-      "entry-date": "August 30, 2026"
+      "entry-date": "August 30, 2026",
+      "preview": "secret-harbor-beach/preview.webp"
     },
     {
       "href": "/travel/logan-shoals-vista-point",
       "title": "Logan Shoals Vista Point, Lake Tahoe",
-      "entry-date": "August 30, 2026"
+      "entry-date": "August 30, 2026",
+      "preview": "logan-shoals-vista-point/preview.webp"
     },
     {
       "href": "/hikes/park-butte-lookout-august-2026",
       "title": "Park Butte Lookout",
-      "entry-date": "August 21, 2026"
+      "entry-date": "August 21, 2026",
+      "preview": "park-butte-lookout/preview.webp"
     },
     {
       "href": "/hikes/walupt-creek-falls-august-2026",
       "title": "Walupt Creek Falls",
-      "entry-date": "August 20, 2026"
+      "entry-date": "August 20, 2026",
+      "preview": "walupt-creek-falls-august-2026/preview.webp"
     },
     {
       "href": "/woodturning/two-bowls-august-2026",
@@ -45,7 +50,8 @@
     {
       "href": "/dev/a-va",
       "title": "A-VA: The Android's Heart",
-      "entry-date": "August 12, 2026"
+      "entry-date": "August 12, 2026",
+      "preview": "a-va/preview.webp"
     },
     {
       "href": "/retro/ti994a",
