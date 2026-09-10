@@ -5,6 +5,9 @@ pubDate: 2026-07-23
 description: 'Making a laundry room table.'
 author: 'Don Schuy'
 tags: ["woodturning"]
+pageUrl: "woodturning/laundry-table"
+preview: "laundry-table/preview.webp"
+previewAltText: "Man assembling a table legs to a table apron."
 ---
 # Laundry Table Disaster and Recovery
 *July 22, 2026*

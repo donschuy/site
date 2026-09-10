@@ -5,6 +5,9 @@ pubDate: 2026-07-23
 description: 'Short hike to Big Four Mountain Ice Caves.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/cherry-creek-falls-july-2026"
+preview: "cherry-creek-falls/preview.webp"
+previewAltText: "A boy in front of two small waterfalls."
 ---
 # Cherry Creek Falls
 *July 23, 2026*

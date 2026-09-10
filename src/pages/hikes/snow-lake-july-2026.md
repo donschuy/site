@@ -5,6 +5,9 @@ pubDate: 2026-07-06
 description: 'Hiking the popular Snow Lake trail.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/snow-lake-july-2026"
+preview: "snow-lake/preview.webp"
+previewAltText: "A view of Snow Lake from the hiking trail above the lake."
 ---
 # Snow Lake
 *July 6, 2026*

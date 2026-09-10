@@ -5,6 +5,9 @@ pubDate: 2026-07-14
 description: 'Mount Rainier, Paradise - Skyline Trail Loop.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/skyline-july-2026"
+preview: "skyline/preview.webp"
+previewAltText: "Mount Rainier as viewed from an early part of the Skyline Trail Loop."
 ---
 # Mount Rainier, Paradise - Skyline Trail Loop
 *July 14, 2026*

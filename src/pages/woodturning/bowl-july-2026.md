@@ -5,6 +5,9 @@ pubDate: 2026-07-22
 description: 'Making a bowl for a gift.'
 author: 'Don Schuy'
 tags: ["woodturning"]
+pageUrl: "woodturning/bowl-july-2026"
+preview: "bowl-july-2026/preview.webp"
+previewAltText: "A bowl attached to a woodturning lathe with the inside mostly hollowed out."
 ---
 # Bowl for Sister-In-Law
 *July 22, 2026*

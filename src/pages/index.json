@@ -129,37 +129,44 @@
     {
       "href": "/hikes/cherry-creek-falls-july-2026",
       "title": "Cherry Creek Falls",
-      "entry-date": "July 23, 2026"
+      "entry-date": "July 23, 2026",
+      "preview": "cherry-creek-falls/preview.webp"
     },
     {
       "href": "/woodturning/laundry-table",
       "title": "Laundry Table Disaster and Recovery",
-      "entry-date": "July 22, 2026"
+      "entry-date": "July 22, 2026",
+      "preview": "laundry-table/preview.webp"
     },
     {
       "href": "/woodturning/bowl-july-2026",
       "title": "Bowl for Sister-In-Law",
-      "entry-date": "July 22, 2026"
+      "entry-date": "July 22, 2026",
+      "preview": "bowl-july-2026/preview.webp"
     },
     {
       "href": "/retro/atari-800xl",
       "title": "Atari 800XL",
-      "entry-date": "July 15, 2026"
+      "entry-date": "July 15, 2026",
+      "preview": "atari-800xl/preview.webp"
     },
     {
       "href": "/hikes/skyline-july-2026",
       "title": "Mount Rainier, Paradise - Skyline Trail Loop",
-      "entry-date": "July 14, 2026"
+      "entry-date": "July 14, 2026",
+      "preview": "skyline/preview.webp"
     },
     {
       "href": "/hikes/ice-caves-july-2026",
       "title": "Big Four Ice Caves",
-      "entry-date": "July 9, 2026"
+      "entry-date": "July 9, 2026",
+      "preview": "ice-caves/preview.webp"
     },
     {
       "href": "/hikes/snow-lake-july-2026",
       "title": "Snow Lake",
-      "entry-date": "July 6, 2026"
+      "entry-date": "July 6, 2026",
+      "preview": "snow-lake/preview.webp"
     }
   ]
 }

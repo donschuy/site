@@ -5,6 +5,9 @@ pubDate: 2026-07-09
 description: 'Short hike to Big Four Mountain Ice Caves.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/ice-caves-july-2026"
+preview: "ice-caves/preview.webp"
+previewAltText: "A young boy with the ice caves in the far background."
 ---
 # Big Four Ice Caves
 *July 9, 2026*
