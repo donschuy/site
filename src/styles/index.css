@@ -1,22 +1,60 @@
+/* Base: smallest phones (default) */
 li.card {
   display: inline-block;
   box-sizing: border-box;
-  width: 380px;
+  width: 320px;
   height: auto;
   border: 16px solid #fafafa;
-  box-shadow:
-      0 4px 6px rgba(0,0,0,0.25),
-      0 1px 3px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.25), 0 1px 3px rgba(0,0,0,0.15);
   border-radius: 4px;
   margin: 5px;
   margin-right: 10px;
+}
 
-  img {
-    margin-top: 4px;
+li.card img {
+  margin-top: 4px;
+  width: 280px;
+  border: 1px solid #aaa;
+}
+
+/* Very common Android width (360px) */
+@media (min-width: 360px) {
+  li.card {
+    width: 335px;
+  }
+  li.card img {
+    width: 295px;
+  }
+}
+
+/* iPhone SE / small phones (≤ 375px) */
+@media (min-width: 375px) {
+  li.card {
+    width: 350px;
+  }
+  li.card img {
+    width: 310px;
+  }
+}
+
+/* iPhone 15 / standard modern phones (≤ 393px) */
+@media (min-width: 393px) {
+  li.card {
+    width: 380px;
+  }
+  li.card img {
     width: 340px;
-    border-width: 1px;
-    border-color: #aaa;
-    border-style: solid;
+  }
+}
+
+/* Optional: iPhone Plus / Pro Max (≤ 430px)
+   Only include if you want slightly larger cards on big phones */
+@media (min-width: 430px) {
+  li.card {
+    width: 400px;
+  }
+  li.card img {
+    width: 360px;
   }
 }
 
