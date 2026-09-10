@@ -1,0 +1,11 @@
+Enhancement ideas
+
+1. Use media queries to size the cards to the size of the phone screen.
+
+2. Attempt to derive the index.json dynamically from the pages read recursively and sorted by entry date.
+
+3. Add filters by content categories, e.g., "dev", "hiking", "family", "retro", "travel" and "woodturning".
+
+4. Consider adding content from old photos.
+
+5. Add sub-filters, such as "Atari", "Commodore" etc.

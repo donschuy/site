@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/colchuck-lake",
+      "title": "Hike to Colchuck Lake, Leavenworth",
+      "entry-date": "September 7, 2026",
+      "preview": "/colchuck-lake/preview.webp"
+    },
+    {
       "href": "/travel/palasades-tahoe-aerial-tram",
       "title": "Palasades Tahoe Aerial Tram",
       "entry-date": "September 2, 2026",
