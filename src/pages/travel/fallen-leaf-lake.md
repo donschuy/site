@@ -5,6 +5,9 @@ pubDate: 2026-08-03
 description: 'Family gathering at Fallen Leaf Lake in the Lake Tahoe area'
 author: 'Don Schuy'
 tags: ["travel"]
+pageUrl: "travel/fallen-leaf-lake"
+preview: "fallen-leaf-lake/preview.webp"
+previewAltText: "A view of Fallen Leaf Lake in the Tahoe area in California."
 ---
 # Fallen Leaf Lake
 *July 29, 2026*

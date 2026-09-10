@@ -5,6 +5,9 @@ pubDate: 2026-08-01
 description: 'Hiking to Lake Genevieve and Lake Crag in the Lake Tahoe area.'
 author: 'Don Schuy'
 tags: ["hiking"]
+pageUrl: "hikes/lake-genevieve-july-2026"
+preview: "lake-genevieve/preview.webp"
+previewAltText: "Two young men taking photos at a lake."
 ---
 # Lake Genevieve and Lake Crag
 *July 27, 2026*

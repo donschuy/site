@@ -5,6 +5,9 @@ pubDate: 2026-08-01
 description: 'Visiting the Sacramento Capitol Mall.'
 author: 'Don Schuy'
 tags: ["travel"]
+pageUrl: "travel/capitol-mall"
+preview: "apitol-mall/preview.webp"
+previewAltText: "The Sacramento, California capitol building."
 ---
 # Sacramento, Capitol Mall
 *July 25, 2026*

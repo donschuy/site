@@ -5,6 +5,9 @@ pubDate: 2026-08-01
 description: 'Spending the evening at a dock on Kiva Beach, Lake Tahoe'
 author: 'Don Schuy'
 tags: ["travel"]
+pageUrl: "travel/kiva-beach"
+preview: "kiva-beach/preview.webp"
+previewAltText: "Two young men taking photos at a lake."
 ---
 # Sunset on Kiva Beach, Lake Tahoe
 *July 26, 2026*
