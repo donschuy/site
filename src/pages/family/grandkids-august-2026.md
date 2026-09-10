@@ -5,6 +5,9 @@ pubDate: 2026-08-04
 description: 'Family vist with all four grandkids at the house today'
 author: 'Don Schuy'
 tags: ["family"]
+pageUrl: "family/grandkids-august-2026"
+preview: "grandkids-august-2026/preview.webp"
+previewAltText: "Grandma holding her baby grandson."
 ---
 # Grandkids at the house this weekend
 *August 3, 2026*

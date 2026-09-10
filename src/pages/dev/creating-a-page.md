@@ -5,6 +5,9 @@ pubDate: 2026-09-07
 description: 'How I create a new page on my activity book site.'
 author: 'Don Schuy'
 tags: ["dev"]
+pageUrl: "family/creating-a-page"
+preview: "creating-a-page/preview.webp"
+previewAltText: "A laptop on a dining room table."
 ---
 # How I create a page on my site
 *September 7, 2026 (updated)*
