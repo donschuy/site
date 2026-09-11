@@ -19,6 +19,7 @@ li.card img {
 
 li.card a {
   color: #000;
+  font-weight: 400;
 }
 
 /* Very common Android width (360px) */
