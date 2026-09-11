@@ -6,7 +6,7 @@ li.card {
   height: auto;
   border: 16px solid #fff;
   box-shadow: 0 4px 6px rgba(0,0,0,0.25), 0 1px 3px rgba(0,0,0,0.15);
-  border-radius: 4px;
+  border-radius: 0px;
   margin: 5px;
   margin-right: 10px;
 }
