@@ -4,7 +4,7 @@ li.card {
   box-sizing: border-box;
   width: 320px;
   height: auto;
-  border: 16px solid #fafafa;
+  border: 16px solid #fff;
   box-shadow: 0 4px 6px rgba(0,0,0,0.25), 0 1px 3px rgba(0,0,0,0.15);
   border-radius: 4px;
   margin: 5px;
@@ -14,7 +14,11 @@ li.card {
 li.card img {
   margin-top: 4px;
   width: 280px;
-  border: 1px solid #aaa;
+  border: 1px solid #000;
+}
+
+li.card a {
+  color: #000;
 }
 
 /* Very common Android width (360px) */
