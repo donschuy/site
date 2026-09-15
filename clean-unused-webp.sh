@@ -11,6 +11,7 @@ usage() {
   echo "              Without this flag, the script only prints what it would delete."
   exit 1
 }
+# example: ./clean-unused-webp.sh --delete ./public/commodore-1702-monitor ./src/pages/retro/commodore-1702-monitor.md  
 
 # No parameters? Show usage.
 if [ $# -lt 2 ]; then
