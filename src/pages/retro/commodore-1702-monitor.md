@@ -20,10 +20,10 @@ Out of convenience, my preference is to modify my retro computers so they can ou
 an SD card cartridge, an HDMI cable, a joystick and a power cable and I'm off and running with a fun retro session. I don't have a dedicated space for a CRT monitor.
 
 However, it is really nice from time to time to see the computer output on the monitor it was designed for. With a CRT monitor, you experience how the software and games
-were presented back in the day. You can actually see the array of pixels where each pixel is lit up independently in a grid that looks like a woven piece of fabric. Its even
-common for retro emulation software to implement shaders that simulate the look of a CRT on modern computer screens.
+were presented back in the day. You can actually see the array of pixels where each pixel is lit up independently in a grid that looks like a woven piece of fabric. It's even
+common for retro emulation software to implement shaders that simulate the look of a CRT on modern computer screens given people's desires to relive the experience.
 
-Let's look at the process of "restoring" a retro monitor. Here it is before I did any work on it. Its actually very clean as it was stored in its original box on a top shelf
+Let's look at the process of "restoring" a retro monitor. Here is the monitor before I did any work on it. The monitor is very clean as it was stored in its original box on a top shelf
 of a garage for years. It doesn't look like it was too heavily used back in the day. I noticed some minor scratches on the top speaker grill, but otherwise this thing is in
 great shape. It is common for old 1702 monitors to be missing the bottom hinge that covers the picture adjustment knobs; this one is intact.
 
@@ -40,9 +40,7 @@ The back looks great. I'll clean the dust off.
 
 This is the [Console5 capacitor kit for the 1702 monitor](https://console5.com/store/commodore-1702-cap-kit.html). This is the [wiki page of instructions for this kit](https://wiki.console5.com/wiki/Commodore_1702).
 
-My intent is to replace all of the capacitors as the original ones could have dried up and become less effective. I haven't even turned on the monitor to see if it is fine without
-changes, but I generally like to replace capacitors on any retro project for "future proofing". I suppose another approach would be to test the existing capacitors first and
-only replace them if needed, but I honestly don't know how to effectively do that with the equipment I have and its easier to just replace them.
+My intent is to replace all of the capacitors as the original ones could have dried up and become less effective.
 
 ![](/commodore-1702-monitor/IMG_6175.webp)
 
@@ -53,7 +51,7 @@ and I'm grateful to the person that created and posted the video.
 ![](/commodore-1702-monitor/IMG_6176.webp)
 
 The back of the monitor has RC jacks for input and a switch to use the RC jacks on the front of the monitor. I found that my composite cable works on the front of the cable but
-not with the connectors on the back which expects a separate Luma and Chroma signals.
+not with the connectors on the back which expects a separate luma and chroma signals.
 
 ![](/commodore-1702-monitor/IMG_6177.webp)
 
@@ -71,7 +69,7 @@ There are three screws in the front that need to be removed to allow pulling out
 
 ![](/commodore-1702-monitor/IMG_6181.webp)
 
-I set the screws for the front and back case asside.
+I set asside the screws for the front and back case.
 
 ![](/commodore-1702-monitor/IMG_6182.webp)
 
@@ -84,10 +82,11 @@ The speaker wires are disconnected and the anode wire freed so the speaker grill
 ![](/commodore-1702-monitor/IMG_6185.webp)
 
 Not pictured, but before I touched the anode suction cup or anthing in this area, I followed steps to discharge the CRT (cathode ray tube). A CRT acts as a large capacitor
-and the worry is that if charged you could receive 1000 volts. Given that this hasn't been turned on in years, the risk is low, however, I still follow the steps to discharge
-it. For me, this involved connecting a wire from a screwdriver to the chassis for grounding, then poking the screwdriver under the anode cup to make contact with the wire
-inside the anode cup and potentially hear a spark as it becomes discharged. If you are going to do this, please research this thoroughly and don't rely on my description
-of how this is done. Of course, the monitor is not plugged into a power outlet while I'm working on it.
+and the worry is that if charged you could receive 1000 volts by touching the wrong part.
+Given that this hasn't been turned on in years, the risk is low, however, I still follow the steps to discharge
+the tube. Discharging involves connecting a wire from a screwdriver to the chassis for grounding, then poking the screwdriver under the anode cup to make contact with the wire
+inside the anode cup to potentially hear a spark as it becomes discharged. If you are going to do this, please research this thoroughly and don't rely on my description
+of how this is done. The monitor is not plugged into a power outlet while I'm working on it.
 
 As it was, there was no spark as there was no built up charge in the CRT.
 
@@ -114,12 +113,12 @@ Yay! The main board is removed from the case.
 
 ![](/commodore-1702-monitor/IMG_6199.webp)
 
-Underneath is the area I'll be soldering on. The manufacturer did a nice job labeling everything. I don't pretend to understand all of this; I only know enough about how
-to identify the components to remove and how to follow instructions to replace them correctly.
+Underneath is the area I'll be soldering on. The manufacturer did a nice job labeling everything. I don't pretend to understand how all these components work.
+I only know enough about how to identify the components to remove and replace them correctly per the instructions online and on the wiki.
 
 ![](/commodore-1702-monitor/IMG_6200.webp)
 
-The board is a dusty mess. This is 42 years old after all. I'll want to clean it. It isn't absolutely necessary to clean it but it will make me feel good knowing that
+The board is a dusty mess; it is 42 years old after all. I'll want to clean it. It isn't absolutely necessary to clean it but it will make me feel good knowing that
 the inside of the monitor is spiffy clean.
 
 ![](/commodore-1702-monitor/IMG_6201.webp)
@@ -160,9 +159,12 @@ correctly where the positive lead goes in the positive hole and the negative lea
 negative one. On the capacitor itself, a stripe indicates which side of the capacitor is the negative lead side. On top of that, the printed circuit board is marked.
 What all of that, I didn't really need to refer to my pictures as it was easy to identify the proper orientation.
 
+The video and wiki both reference a capacitor that is labelled incorrectly on the printed circuit board. For this one case, you want to reverse the position of the
+positive and negative leads rather than do what it says on the printed circuit board. I make sure to follow through on this one exception.
+
 ![](/commodore-1702-monitor/IMG_6219.webp)
 
-No I remove all 41 of the capacitors. Here I'm remove the one at the marked position, C905, on the circuit board for the tube yoke. I have a desoldering iron which
+Now I remove all 41 of the capacitors. Here I remove the one at the marked position, C905, on the circuit board for the tube yoke. I have a desoldering iron which
 heats up the solder and sucks it up via vacuum.
 
 ![](/commodore-1702-monitor/IMG_6227.webp)
@@ -220,7 +222,7 @@ The bottom of the board when I'm done.
 
 ![](/commodore-1702-monitor/IMG_6255.webp)
 
-And the top of the board. Looks pretty spiffy from my perspective.
+And the top of the board. Looks pretty good.
 
 ![](/commodore-1702-monitor/IMG_6256.webp)
 
@@ -228,15 +230,17 @@ I reinsert the board into the case.
 
 ![](/commodore-1702-monitor/IMG_6257.webp)
 
-I cleaned up the suction cup and add some new silica gel and put it on the tube.
+I cleaned up the anode suction cup and add some new silica gel and put the anode cup on the tube.
 
 ![](/commodore-1702-monitor/IMG_6258.webp)
 
 ![](/commodore-1702-monitor/IMG_6259.webp)
 
 To be honest, I didn't get this quite right the first time. You have to make sure the anode wire gets hooked into the hole it is mounted on in the CRT.
-I thought mine was tight but it wasn't. This caused an extra day of letting the CRT leak its charge just in case, then discharging it and trying again.
-As it turned out, when I attempted to discharge the tube that was when I noticed that the anode wasn't hooked up correctly at all. When I connected it
+I thought mine was tight but it wasn't. The behavior was the display was bouncing around and there was a a clicking and hissing noise.
+
+This problem paused progress an extra day. I had to let the CRT leak its charge just in case, then discharge it and trying again.
+As it turned out, when I attempted to discharge the tube I noticed that the anode wasn't hooked up correctly at all. When I connected it
 correctly and put it all back together it worked!
 
 ![](/commodore-1702-monitor/IMG_6264.webp)
