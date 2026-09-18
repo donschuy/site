@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/ptarmigan-ridge-september-2026",
+      "title": "Hike to Ptarmigan Ridge, Mount Hood",
+      "entry-date": "September 17, 2026",
+      "preview": "/ptarmigan-ridge-september-2026/preview.webp"
+    },
+    {
       "href": "/retro/commodore-1702-monitor",
       "title": "Restoring a Commodore 1702 monitor",
       "entry-date": "September 14, 2026",
