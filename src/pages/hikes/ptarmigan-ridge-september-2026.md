@@ -1,15 +1,15 @@
 ---
 layout: ../../layouts/ArticleLayout.astro
-title: 'Ptarmigan Ridge, Mount Hood'
+title: 'Ptarmigan Ridge, Mount Baker'
 pubDate: 2026-09-17
-description: 'Hike to the Ptarmigan Ridge for a closeup view of Mount Hood.'
+description: 'Hike to the Ptarmigan Ridge for a closeup view of Mount Baker.'
 author: 'Don Schuy'
 tags: ["hiking"]
 pageUrl: "hikes/ptarmigan-ridge-september-2026"
 preview: "ptarmigan-ridge-september-2026/preview.webp"
-previewAltText: "View of Mount Hood from Ptarmigan Ridge"
+previewAltText: "View of Mount Baker from Ptarmigan Ridge"
 ---
-# Ptarmigan Ridge, Mount Hood
+# Ptarmigan Ridge, Mount Baker
 *September 17, 2026*
 
 [Washington Trails Association page](https://www.wta.org/go-hiking/hikes/ptarmigan-ridge) for this hike.
@@ -48,7 +48,7 @@ The trail starts along a ridge pretty highup and is an immediate treat.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6334.webp)
 
-Mount Hood is partially obscured. On our hike we will get better and better vantage points to view the mountain.
+Mount Baker is partially obscured. On our hike we will get better and better vantage points to view the mountain.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6336.webp)
 
@@ -234,7 +234,7 @@ Another rock formation above us.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6518.webp)
 
-We are now in an area with some great views, including a clear view of Mount Hood.
+We are now in an area with some great views, including a clear view of Mount Baker.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6521.webp)
 
