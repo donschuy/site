@@ -301,7 +301,7 @@ This part of the trail crosses some snow which we carefully cross so we don't sk
 
 ![](/ptarmigan-ridge-september-2026/IMG_6574.webp)
 
-We have made it up to the ridge and the view of the mountain is wondeful.
+We have made it up to the ridge and the view of the mountain is wonderful.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6580.webp)
 
