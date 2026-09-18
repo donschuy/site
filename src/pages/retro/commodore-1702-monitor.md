@@ -6,8 +6,7 @@ description: 'Cleaning and renewing a Commodore 1702 video monitor.'
 author: 'Don Schuy'
 tags: ["retro"]
 pageUrl: "retro/commodore-1702-monitor"
-preview: "retro/commodore-1702-monitor![](/commodore-1702-monitor//preview.webp)
-"
+preview: "retro/commodore-1702-monitor/preview.webp"
 previewAltText: "A Commodore 64 game title screen rendered on a Commodore 1702 video monitor CRT (cathode ray tube)."
 ---
 # Restoring a Commodore 1702 Monitor
