@@ -19,16 +19,16 @@ This is a long hike, 11.4 miles round trip according to All Trails and that seem
 
 A nice thing about this trail is that from the very beginning the views are wonderful and its picture taking pretty much all along the way. There also is a midpoint spot of a 
 colorful open field that is the primary destination for some hikers who are just looking for the photo opportunity there. On our way back we saw some folks starting out late in
-the afternoon and assume that they were just for the early parts of the trail.
+the afternoon and assume that they were just there for the early parts of the trail. There were also quite a few overnight hikers.
 
 The trail is dog friendly and we saw lots of hikers with their pets. We visited on a Thursday and imagine that like all great trails this one is going to be really busy on a
 weekend.
 
-We got a later start than we expected as one of the truck tires was leaking and I had to change to the spare.
+We got a later start than we expected as along the way one of the truck tires was leaking and I had to change to the spare.
 
 ![](/ptarmigan-ridge-september-2026/IMG_5569.webp)
 
-Good thing we did this at a gas station, because the spare had been unused for a decade and was without air itself. Once pumped up, we were on our way.
+Good thing we stopped to do this at a gas station because the spare had been unused for a decade and was without air itself. Once pumped up, we were on our way.
 
 ![](/ptarmigan-ridge-september-2026/IMG_5572.webp)
 
@@ -37,18 +37,18 @@ short site seeing walks here as there are nice views right off the parking area 
 
 ![](/ptarmigan-ridge-september-2026/IMG_6325.webp)
 
-The posted guide indicated that there are two additional trails, "Chain Lake" and "Table Mountain".  We've never done those. We have done the "Ptarmigan Ridge" trail twice
+The posted trail sign indicated that there are two additional trails, "Chain Lake" and "Table Mountain".  We've never done those. We have done the "Ptarmigan Ridge" trail twice
 before, the last time four years ago.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6328.webp)
 
-The trail starts along a ridge pretty highup and is an immediate treat.
+The trail starts along a hill side pretty highup and is an immediate visual treat.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6332.webp)
 
 ![](/ptarmigan-ridge-september-2026/IMG_6334.webp)
 
-Mount Baker is partially obscured. On our hike we will get better and better vantage points to view the mountain.
+Mount Baker is partially obscured. On our hike we will get progressively better vantage points to view the mountain.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6336.webp)
 
@@ -56,13 +56,13 @@ Mount Baker is partially obscured. On our hike we will get better and better van
 
 ![](/ptarmigan-ridge-september-2026/IMG_6340.webp)
 
-The trail is generally out in the open and you can see where it is going to or coming from anywhere along the hike.
+The trail is generally out in the open and you can often see off in the distance where it is going to or coming from.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6343.webp)
 
 ![](/ptarmigan-ridge-september-2026/IMG_6344.webp)
 
-Looking up the ridge we are hiking on, there are often interesting rock formations.
+Looking up the hill we are hiking on, there are often interesting rock formations.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6345.webp)
 
@@ -70,19 +70,19 @@ Looking up the ridge we are hiking on, there are often interesting rock formatio
 
 ![](/ptarmigan-ridge-september-2026/IMG_6347.webp)
 
-There is a valley below us and a hill above us.
+There is a valley far below us and a hill far above us.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6354.webp)
 
 ![](/ptarmigan-ridge-september-2026/IMG_6357.webp)
 
-The trail crosses this rock formation of rocks with flat cuts. It looks like something from a fantasy novel or film.
+The trail crosses a rock formation of slate like rocks with neatly flat cuts. It looks like something from a fantasy novel or film.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6363.webp)
 
 ![](/ptarmigan-ridge-september-2026/IMG_6364.webp)
 
-Looking back we can see the mountain views visible from Artist Point.
+Looking back we can see the mountain view that was also visible from Artist Point.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6366.webp)
 
@@ -157,8 +157,8 @@ Ying finds a spot to sit among the brush.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6449.webp)
 
-I took multiple pictures and in the end its difficult to figure out which is the best picture as the area is really beautiful. Here is the same shot done in a horizontal
-landscape and then in a vertical portrait.
+I took multiple pictures and in the end its difficult to figure out which is the best picture as the area is really gorgeous. Here is the same photo done in a horizontal
+landscape and then in a vertical portrait. I can't decide which I like best.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6450.webp)
 
@@ -190,7 +190,7 @@ Ok, on our way.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6482.webp)
 
-Again, we can see the path ahead.
+Again, we can see our path in the distance ahead.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6483.webp)
 
@@ -222,7 +222,7 @@ Another interesting rock formation on the side of the hill.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6510.webp)
 
-I use the Pano feature on my iPhone to capture the whole thing.
+I use the Pano feature on my iPhone to capture the rock formation.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6512.webp)
 
@@ -313,7 +313,8 @@ There are three hikers also here. We will cross the ridge top and sit for a lunc
 
 ![](/ptarmigan-ridge-september-2026/IMG_6587.webp)
 
-These three individual hikers are enjoying their time. We strike up some short conversations as they are friendly nature lovers just like us.
+The three individual hikers are enjoying their time. We strike up some short conversations as they are friendly adventurers and nature lovers just like us.
+We are all overtaken by our surroundings.
 
 ![](/ptarmigan-ridge-september-2026/IMG_6592.webp)
 
