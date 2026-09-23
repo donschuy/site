@@ -51,7 +51,7 @@ echo "Using $CPU_CORES cores."
 $DELETE_HEIC && echo "HEIC/HEIF originals will be deleted after conversion."
 
 shopt -s nullglob
-FILES=( *.jpg *.jpeg *.png *.heic *.HEIC *.heif *.HEIF *.tif *.tiff *.TIF *.TIFF )
+FILES=( *.jpg *.JPG *.jpeg *.JPEG *.png *.PNG *.heic *.HEIC *.heif *.HEIF *.tif *.tiff *.TIF *.TIFF )
 shopt -u nullglob
 
 if [ ${#FILES[@]} -eq 0 ]; then

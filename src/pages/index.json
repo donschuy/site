@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/naches-peak",
+      "title": "Ying at Naches Peak Loop Trail",
+      "entry-date": "September 22, 2026",
+      "preview": "/naches-peak/preview.webp"
+    },
+    {
       "href": "/hikes/ptarmigan-ridge-september-2026",
       "title": "Hike to Ptarmigan Ridge, Mount Baker",
       "entry-date": "September 17, 2026",
