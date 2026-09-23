@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/dev/guy-with-hat",
+      "title": "guy with hat: escape from rising tides",
+      "entry-date": "September 22, 2026",
+      "preview": "/guy-with-hat/preview.webp"
+    },
+    {
       "href": "/hikes/naches-peak",
       "title": "Ying at Naches Peak Loop Trail",
       "entry-date": "September 22, 2026",
