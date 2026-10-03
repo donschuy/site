@@ -7,7 +7,7 @@ author: 'Don Schuy'
 tags: ["hiking"]
 pageUrl: "hikes/skyline-july-2026"
 preview: "skyline-october-2026/preview.webp"
-previewAltText: "."
+previewAltText: "Scenic view with yellow and red shrubs and a mountainous background."
 ---
 # Mount Rainier, Paradise - Fall Colors
 *October 1, 2026*
@@ -18,7 +18,7 @@ previewAltText: "."
 Ying has been anxious to get out and do some hiking while the fall colors are present. Skyline Trail Loop is exceptional in the fall. We headed out at 6 AM as the drive to Paradise is about 2 1/2 hours
 plus time for the usual coffee stop. We knew that we might not get to see the mountain today as the clouds could completely cover it.
 
-It is a Thursday but the trail reports from the day before spoke of the park being crowded. When we got there around 9 AM and found there was plenty of parking still. This is Ying's boss BMW X5 in a nearly
+It is a Thursday but the trail reports from the day before spoke of the park being crowded. We we got there around 9 AM and found there was plenty of parking still. This is Ying's boss BMW X5 in a nearly
 empty lower parking lot.
 ![](/skyline-october-2026/IMG_6950.webp)
 
@@ -36,7 +36,8 @@ have to be a hiker in order to enjoy this as there is a lot to see within short 
 ![](/skyline-october-2026/IMG_6966.webp)
 
 Online, Paradise is getting some flak in hiker reports for the rude behavior of some folks on the trail. We found out that early in the day it is quite the opposite. On our way up we meet a lot of really
-nice folks enjoying the hike and sights with camaraderie. As the day goes on and there are more folks with maybe less hiking experience. My recommendation is to hit the trail early and be with the cool cats!
+nice folks enjoying the hike and sights with camaraderie. As the day goes on there are more folks with maybe less hiking experience. My recommendation is to hit the trail early and be one with the serious
+nature lovers!
 ![](/skyline-october-2026/IMG_6968.webp)
 
 ![](/skyline-october-2026/IMG_6969.webp)

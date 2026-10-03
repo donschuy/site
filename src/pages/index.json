@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/comet-falls",
+      "title": "Mount Rainier, Comet Falls",
+      "entry-date": "October 1, 2026",
+      "preview": "/comet-falls/preview.webp"
+    },
+    {
       "href": "/hikes/skyline-october-2026",
       "title": "Mount Rainier, Paradise - Fall Colors",
       "entry-date": "October 1, 2026",
