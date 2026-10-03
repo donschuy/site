@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/skyline-october-2026",
+      "title": "Mount Rainier, Paradise - Fall Colors",
+      "entry-date": "October 1, 2026",
+      "preview": "/skyline-october-2026/preview.webp"
+    },
+    {
       "href": "/dev/guy-with-hat",
       "title": "guy with hat: escape from rising tides",
       "entry-date": "September 22, 2026",
