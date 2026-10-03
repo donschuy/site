@@ -132,5 +132,3 @@ Ying zoomed in to get a picture of the top. Using the zoom makes it fuzzy. This 
 
 Hiking back.
 ![](/comet-falls/IMG_7365.webp)
-
-![](/comet-falls/IMG_7861.webp)
