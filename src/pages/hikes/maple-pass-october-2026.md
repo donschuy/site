@@ -6,7 +6,7 @@ description: 'The Maple Pass Loop hike.'
 author: 'Don Schuy'
 tags: ["hiking"]
 pageUrl: "hikes/maple-pass-october-2026"
-preview: "maple-pass-october-2026/preview.xwebp"
+preview: "maple-pass-october-2026/preview.webp"
 previewAltText: "A view of Ann lake surrounded by mountains."
 ---
 # Maple Pass Loop
