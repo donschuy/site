@@ -19,7 +19,7 @@ With all the picture taking, this ~7 mile hike took us 5 1/2 hours. From the top
 feels she could do this hike in 4 hours and she likely could without me slowing her down. The hike is rated moderate to hard.
 One trail report called it an "easier hard".
 
-This page may load slow as it has a lot of pictures because it is difficult to edit them down given the beauty of the area.
+This page may load slow as it has a lot of pictures. It was difficult for me to edit them down given the beauty of the area.
 I took 375 photos and have almost 150 on the page. This time of the year was perfect as one of the attractions of the trail
 is to see the Larch trees when they turn yellow in the fall.
 
@@ -27,8 +27,8 @@ Commonly, folks do the loop counter-clockwise and that is what we did as well. W
 counter-clockwise allows you to enjoy the best scenery on the way up as the other side of the loop is in the woods for a large
 part of the way.
 
-This is a heavily used trail. If you are driving on the Cascade Loop on Highway 20, you will see the trailhead with a ton of
-cars parked on the side of the road. Folks complain a lot about how crowded it is on the weekend. We did the trail on Monday
+This is a heavily used trail. If you are driving on the Cascade Loop on Highway 20, you will see the trailhead with a mile of
+cars parked along the sides of the road. Folks complain a lot about how crowded it is on the weekend. We did the trail on Monday
 and the trail didn't seem nearly as crowded as you would think from all the cars parked there.
 
 ![](/maple-pass-october-2026/IMG_7374.webp)
@@ -60,7 +60,7 @@ fall colors.
 ![](/maple-pass-october-2026/IMG_7399.webp)
 
 We were fortunate that while it was expected to be a cloudy day, for the most part the weather was great and we had
-great mountain views. We had been here a couple times before and on one of those days there was a lot of smoke in the
+excellent mountain views. We had been here a couple times before and on one of those occastions there was a lot of smoke in the
 area from distant forest fires.
 
 ![](/maple-pass-october-2026/IMG_7400.webp)
@@ -118,7 +118,7 @@ Taking pictures of this area from a distance. I didn't realize at the time that 
 
 ![](/maple-pass-october-2026/IMG_7484.webp)
 
-From this point on its sensual color overload with bright reds, oranges and yellows.
+From this point on its color sensual overload with bright reds, oranges and yellows.
 
 ![](/maple-pass-october-2026/IMG_7485.webp)
 
