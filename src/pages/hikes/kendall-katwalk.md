@@ -6,7 +6,7 @@ description: 'Kendall Katwalk hike.'
 author: 'Don Schuy'
 tags: ["hiking"]
 pageUrl: "hikes/kendall-katwalk"
-preview: "kendall-katwalk/preview.xwebp"
+preview: "kendall-katwalk/preview.webp"
 previewAltText: ""
 ---
 # Kendall Katwalk
