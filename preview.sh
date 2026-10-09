@@ -34,3 +34,5 @@ magick "$INPUT" \
   "$OUT"
 
 echo "Preview image created: $OUT (1200x627)"
+
+node ./theme-extractor/extract.js $OUT

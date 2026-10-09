@@ -8,7 +8,9 @@ tags: ["dev"]
 pageUrl: "dev/a-va"
 preview: "a-va/preview.webp"
 previewAltText: "The first level screenshot of A-VA The Android's Heart game."
-
+previewBorderColor: #353c53
+titleFontColor:   #FFFFFF
+dateFontColor:    #D3D3D3
 ---
 # A-VA: The Android's Heart
 *August 12, 2026*

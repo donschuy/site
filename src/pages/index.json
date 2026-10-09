@@ -4,223 +4,334 @@
       "href": "/hikes/kendall-katwalk",
       "title": "Kendall Katwalk",
       "entry-date": "October 8, 2026",
-      "preview": "/kendall-katwalk/preview.webp"
+      "preview": "/kendall-katwalk/preview.webp",
+      "previewBorderStyle": "background-color:#6b6558;border-color:#6b6558",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/maple-pass-october-2026",
       "title": "Maple Pass Loop",
       "entry-date": "October 5, 2026",
-      "preview": "/maple-pass-october-2026/preview.webp"
+      "preview": "/maple-pass-october-2026/preview.webp",
+      "previewBorderStyle": "background-color:#5c5c52;border-color:#5c5c52",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/comet-falls",
       "title": "Mount Rainier, Comet Falls",
       "entry-date": "October 1, 2026",
-      "preview": "/comet-falls/preview.webp"
+      "preview": "/comet-falls/preview.webp",
+      "previewBorderStyle": "background-color:#7f7e64;border-color:#7f7e64",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/skyline-october-2026",
       "title": "Mount Rainier, Paradise - Fall Colors",
       "entry-date": "October 1, 2026",
-      "preview": "/skyline-october-2026/preview.webp"
+      "preview": "/skyline-october-2026/preview.webp",
+      "previewBorderStyle": "background-color:#6c5742;border-color:#6c5742",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/dev/guy-with-hat",
       "title": "guy with hat: escape from rising tides",
       "entry-date": "September 22, 2026",
-      "preview": "/guy-with-hat/preview.webp"
+      "preview": "/guy-with-hat/preview.webp",
+      "previewBorderStyle": "background-color:#b29f99;border-color:#b29f99",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/hikes/naches-peak",
       "title": "Ying at Naches Peak Loop Trail",
       "entry-date": "September 22, 2026",
-      "preview": "/naches-peak/preview.webp"
+      "preview": "/naches-peak/preview.webp",
+      "previewBorderStyle": "background-color:#7b7972;border-color:#7b7972",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/ptarmigan-ridge-september-2026",
       "title": "Hike to Ptarmigan Ridge, Mount Baker",
       "entry-date": "September 17, 2026",
-      "preview": "/ptarmigan-ridge-september-2026/preview.webp"
+      "preview": "/ptarmigan-ridge-september-2026/preview.webp",
+      "previewBorderStyle": "background-color:#5a6e85;border-color:#5a6e85",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/retro/commodore-1702-monitor",
       "title": "Restoring a Commodore 1702 monitor",
       "entry-date": "September 14, 2026",
-      "preview": "commodore-1702-monitor/preview.webp"
+      "preview": "commodore-1702-monitor/preview.webp",
+      "previewBorderStyle": "background-color:#67544d;border-color:#67544d",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/colchuck-lake",
       "title": "Hike to Colchuck Lake, Leavenworth",
       "entry-date": "September 7, 2026",
-      "preview": "/colchuck-lake/preview.webp"
+      "preview": "/colchuck-lake/preview.webp",
+      "previewBorderStyle": "background-color:#4b6576;border-color:#4b6576",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/palasades-tahoe-aerial-tram",
       "title": "Palasades Tahoe Aerial Tram",
       "entry-date": "September 2, 2026",
-      "preview": "/palasades-tahoe-aerial-tram/preview.webp"
+      "preview": "/palasades-tahoe-aerial-tram/preview.webp",
+      "previewBorderStyle": "background-color:#80827f;border-color:#80827f",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/hikes/angora-lakes",
       "title": "Angora Lakes Trail, Lake Tahoe",
       "entry-date": "September 1, 2026",
-      "preview": "/angora-lakes/preview.webp"
+      "preview": "/angora-lakes/preview.webp",
+      "previewBorderStyle": "background-color:#696f6b;border-color:#696f6b",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/mount-tallac",
       "title": "Mount Tallac Trail, Lake Tahoe",
       "entry-date": "August 31, 2026",
-      "preview": "mount-tallac/preview.webp"
+      "preview": "mount-tallac/preview.webp",
+      "previewBorderStyle": "background-color:#70899f;border-color:#70899f",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/travel/secret-harbor-beach",
       "title": "Secret Harbor Beach, Lake Tahoe",
       "entry-date": "August 30, 2026",
-      "preview": "secret-harbor-beach/preview.webp"
+      "preview": "secret-harbor-beach/preview.webp",
+      "previewBorderStyle": "background-color:#816952;border-color:#816952",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/logan-shoals-vista-point",
       "title": "Logan Shoals Vista Point, Lake Tahoe",
       "entry-date": "August 30, 2026",
-      "preview": "logan-shoals-vista-point/preview.webp"
+      "preview": "logan-shoals-vista-point/preview.webp",
+      "previewBorderStyle": "background-color:#58788e;border-color:#58788e",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/park-butte-lookout-august-2026",
       "title": "Park Butte Lookout",
       "entry-date": "August 21, 2026",
-      "preview": "park-butte-lookout/preview.webp"
+      "preview": "park-butte-lookout/preview.webp",
+      "previewBorderStyle": "background-color:#8c928e;border-color:#8c928e",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/hikes/walupt-creek-falls-august-2026",
       "title": "Walupt Creek Falls",
       "entry-date": "August 20, 2026",
-      "preview": "walupt-creek-falls-august-2026/preview.webp"
+      "preview": "walupt-creek-falls-august-2026/preview.webp",
+      "previewBorderStyle": "background-color:#414f64;border-color:#414f64",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/woodturning/two-bowls-august-2026",
       "title": "Two bowls",
       "entry-date": "August 14, 2026",
-      "preview": "two-bowls-august-2026/preview.webp"
+      "preview": "two-bowls-august-2026/preview.webp",
+      "previewBorderStyle": "background-color:#a6807a;border-color:#a6807a",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/dev/a-va",
       "title": "A-VA: The Android's Heart",
       "entry-date": "August 12, 2026",
-      "preview": "a-va/preview.webp"
+      "preview": "a-va/preview.webp",
+      "previewBorderStyle": "background-color:#353c53;border-color:#353c53",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/retro/ti994a",
       "title": "Restoring a Texas Instruments TI-99/4a Computer",
       "entry-date": "August 11, 2026",
-      "preview": "ti994a/preview.webp"
+      "preview": "ti994a/preview.webp",
+      "previewBorderStyle": "background-color:#455d4c;border-color:#455d4c",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/family/flowers-august-2026",
       "title": "Watering my Wife's Flowers",
       "entry-date": "August 8, 2026",
-      "preview": "flowers-august-2026/preview.webp"
+      "preview": "flowers-august-2026/preview.webp",
+      "previewBorderStyle": "background-color:#866b3a;border-color:#866b3a",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/woodturning/bowl-for-neighbor",
       "title": "Bowl for a Neighbor",
       "entry-date": "August 8, 2026",
-      "preview": "bowl-for-neighbor/preview.webp"
+      "preview": "bowl-for-neighbor/preview.webp",
+      "previewBorderStyle": "background-color:#876953;border-color:#876953",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/family/grandkids-august-2026",
       "title": "Grandkids at the house this weekend",
       "entry-date": "August 3, 2026",
-      "preview": "grandkids-august-2026/preview.webp"
+      "preview": "grandkids-august-2026/preview.webp",
+      "previewBorderStyle": "background-color:#7f5e4a;border-color:#7f5e4a",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/dev/creating-a-page",
       "title": "How I create a page on my site",
       "entry-date": "August 3, 2026",
-      "preview": "creating-a-page/preview.webp"
+      "preview": "creating-a-page/preview.webp",
+      "previewBorderStyle": "background-color:#87827b;border-color:#87827b",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/family/dan-shed",
       "title": "Dan's Backyard Shed Build",
       "entry-date": "August 2, 2026",
-      "preview": "dan-shed/preview.webp"
+      "preview": "dan-shed/preview.webp",
+      "previewBorderStyle": "background-color:#5c5c4e;border-color:#5c5c4e",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/sand-harbor",
       "title": "Sand Harbor",
       "entry-date": "July 29, 2026",
-      "preview": "sand-harbor/preview.webp"
+      "preview": "sand-harbor/preview.webp",
+      "previewBorderStyle": "background-color:#63614d;border-color:#63614d",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/fallen-leaf-lake",
       "title": "Fallen Leaf Lake",
       "entry-date": "July 29, 2026",
-      "preview": "fallen-leaf-lake/preview.webp"
+      "preview": "fallen-leaf-lake/preview.webp",
+      "previewBorderStyle": "background-color:#527384;border-color:#527384",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/rubicon-july-2026",
       "title": "Rubicon Trail to Calawee Cove Beach",
       "entry-date": "July 28, 2026",
-      "preview": "rubicon-july-2026/preview.webp"
+      "preview": "rubicon-july-2026/preview.webp",
+      "previewBorderStyle": "background-color:#515044;border-color:#515044",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/lake-genevieve-july-2026",
       "title": "Lake Genevieve and Lake Crag",
       "entry-date": "July 27, 2026",
-      "preview": "lake-genevieve/preview.webp"
+      "preview": "lake-genevieve/preview.webp",
+      "previewBorderStyle": "background-color:#637580;border-color:#637580",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/kiva-beach",
       "title": "Sunset on a Kiva Beach dock",
       "entry-date": "July 26, 2026",
-      "preview": "kiva-beach/preview.webp"
+      "preview": "kiva-beach/preview.webp",
+      "previewBorderStyle": "background-color:#79644a;border-color:#79644a",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/travel/capitol-mall",
       "title": "Sacramento, Capitol Mall",
       "entry-date": "July 25, 2026",
-      "preview": "capitol-mall/preview.webp"
+      "preview": "capitol-mall/preview.webp",
+      "previewBorderStyle": "background-color:#455e76;border-color:#455e76",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/cherry-creek-falls-july-2026",
       "title": "Cherry Creek Falls",
       "entry-date": "July 23, 2026",
-      "preview": "cherry-creek-falls/preview.webp"
+      "preview": "cherry-creek-falls/preview.webp",
+      "previewBorderStyle": "background-color:#665e3f;border-color:#665e3f",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/woodturning/laundry-table",
       "title": "Laundry Table Disaster and Recovery",
       "entry-date": "July 22, 2026",
-      "preview": "laundry-table/preview.webp"
+      "preview": "laundry-table/preview.webp",
+      "previewBorderStyle": "background-color:#8e796c;border-color:#8e796c",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/woodturning/bowl-july-2026",
       "title": "Bowl for Sister-In-Law",
       "entry-date": "July 22, 2026",
-      "preview": "bowl-july-2026/preview.webp"
+      "preview": "bowl-july-2026/preview.webp",
+      "previewBorderStyle": "background-color:#8d805e;border-color:#8d805e",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/retro/atari-800xl",
       "title": "Atari 800XL",
       "entry-date": "July 15, 2026",
-      "preview": "atari-800xl/preview.webp"
+      "preview": "atari-800xl/preview.webp",
+      "previewBorderStyle": "background-color:#a5866c;border-color:#a5866c",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/hikes/skyline-july-2026",
       "title": "Mount Rainier, Paradise - Skyline Trail Loop",
       "entry-date": "July 14, 2026",
-      "preview": "skyline/preview.webp"
+      "preview": "skyline/preview.webp",
+      "previewBorderStyle": "background-color:#5b6551;border-color:#5b6551",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     },
     {
       "href": "/hikes/ice-caves-july-2026",
       "title": "Big Four Ice Caves",
       "entry-date": "July 9, 2026",
-      "preview": "ice-caves/preview.webp"
+      "preview": "ice-caves/preview.webp",
+      "previewBorderStyle": "background-color:#a09c91;border-color:#a09c91",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#595959"
     },
     {
       "href": "/hikes/snow-lake-july-2026",
       "title": "Snow Lake",
       "entry-date": "July 6, 2026",
-      "preview": "snow-lake/preview.webp"
+      "preview": "snow-lake/preview.webp",
+      "previewBorderStyle": "background-color:#4d665e;border-color:#4d665e",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
     }
   ]
 }

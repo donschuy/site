@@ -25,12 +25,12 @@ const articles = data.articles;
 
     <nav>
       {articles.map(article => (
-        <li class="card">
-          <a href={article.href}>{article.title}
+        <li class="card" style={article.previewBorderStyle}>
+          <a href={article.href} style={article.titleStyle}>{article.title}
             {article.preview &&
               <div><img src={article.preview} /></div>
             }
-            <div class="entry-date">{article["entry-date"]}</div>
+            <div class="entry-date" style={article.dateStyle}>{article["entry-date"]}</div>
           </a>
         </li>
       ))}
