@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "href": "/hikes/kendall-katwalk",
+      "title": "Kendall Katwalk",
+      "entry-date": "October 8, 2026",
+      "preview": "/kendall-katwalk/preview.webp"
+    },
+    {
       "href": "/hikes/maple-pass-october-2026",
       "title": "Maple Pass Loop",
       "entry-date": "October 5, 2026",

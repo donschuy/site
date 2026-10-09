@@ -155,6 +155,8 @@ The larches look like trees of gold.
 
 ![](/maple-pass-october-2026/IMG_7516.webp)
 
+![](/maple-pass-october-2026/IMG_8319.webp)
+
 ![](/maple-pass-october-2026/IMG_7530.webp)
 
 ![](/maple-pass-october-2026/IMG_7534.webp)
