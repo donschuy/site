@@ -23,7 +23,7 @@ function getContrastThemes(r, g, b) {
   if (luminance > 0.5) {
     return {
       titleColor: '#000000', // Solid black
-      dateColor: '#595959'   // Subdued dark gray
+      dateColor: '#222222'   // Subdued dark gray
     };
   } else {
     return {

@@ -43,7 +43,7 @@
       "preview": "/guy-with-hat/preview.webp",
       "previewBorderStyle": "background-color:#b29f99;border-color:#b29f99",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/hikes/naches-peak",
@@ -88,7 +88,7 @@
       "preview": "/palasades-tahoe-aerial-tram/preview.webp",
       "previewBorderStyle": "background-color:#80827f;border-color:#80827f",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/hikes/angora-lakes",
@@ -106,7 +106,7 @@
       "preview": "mount-tallac/preview.webp",
       "previewBorderStyle": "background-color:#70899f;border-color:#70899f",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/travel/secret-harbor-beach",
@@ -133,7 +133,7 @@
       "preview": "park-butte-lookout/preview.webp",
       "previewBorderStyle": "background-color:#8c928e;border-color:#8c928e",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/hikes/walupt-creek-falls-august-2026",
@@ -151,7 +151,7 @@
       "preview": "two-bowls-august-2026/preview.webp",
       "previewBorderStyle": "background-color:#a6807a;border-color:#a6807a",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/dev/a-va",
@@ -205,7 +205,7 @@
       "preview": "creating-a-page/preview.webp",
       "previewBorderStyle": "background-color:#87827b;border-color:#87827b",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/family/dan-shed",
@@ -295,7 +295,7 @@
       "preview": "bowl-july-2026/preview.webp",
       "previewBorderStyle": "background-color:#8d805e;border-color:#8d805e",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/retro/atari-800xl",
@@ -304,7 +304,7 @@
       "preview": "atari-800xl/preview.webp",
       "previewBorderStyle": "background-color:#a5866c;border-color:#a5866c",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/hikes/skyline-july-2026",
@@ -322,7 +322,7 @@
       "preview": "ice-caves/preview.webp",
       "previewBorderStyle": "background-color:#a09c91;border-color:#a09c91",
       "titleStyle": "color:#000000",
-      "dateStyle": "color:#595959"
+      "dateStyle": "color:#222222"
     },
     {
       "href": "/hikes/snow-lake-july-2026",
