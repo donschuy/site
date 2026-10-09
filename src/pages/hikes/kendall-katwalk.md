@@ -72,7 +72,7 @@ The trail transitioned temporarily to a rock field with some views around us.
 
 ![](/kendall-katwalk/IMG_7852.webp)
 
-Bunces of these small white flowers were seen many places along the way.
+Bunches of these small white flowers were seen many places along the way.
 
 ![](/kendall-katwalk/IMG_7854.webp)
 
