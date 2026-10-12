@@ -164,7 +164,7 @@ I find that if I step back and use the zoom on the subject, the mountain in the 
 
 ![](/kendall-katwalk/IMG_8963.webp)
 
-You can see the I5 freeway down below. Also you can see the ski area.
+You can see the I90 freeway down below. Also you can see the ski area.
 
 ![](/kendall-katwalk/IMG_7983.webp)
 
