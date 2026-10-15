@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "href": "/retro/atari-800xl",
+      "title": "Atari 800XL",
+      "entry-date": "July 15, 2026 (updated October 14, 2026)",
+      "preview": "atari-800xl/preview.webp",
+      "previewBorderStyle": "background-color:#a5866c;border-color:#a5866c",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#222222"
+    },
+    {
       "href": "/hikes/kendall-katwalk",
       "title": "Kendall Katwalk",
       "entry-date": "October 8, 2026",
@@ -294,15 +303,6 @@
       "entry-date": "July 22, 2026",
       "preview": "bowl-july-2026/preview.webp",
       "previewBorderStyle": "background-color:#8d805e;border-color:#8d805e",
-      "titleStyle": "color:#000000",
-      "dateStyle": "color:#222222"
-    },
-    {
-      "href": "/retro/atari-800xl",
-      "title": "Atari 800XL",
-      "entry-date": "July 15, 2026",
-      "preview": "atari-800xl/preview.webp",
-      "previewBorderStyle": "background-color:#a5866c;border-color:#a5866c",
       "titleStyle": "color:#000000",
       "dateStyle": "color:#222222"
     },
