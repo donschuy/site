@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "href": "/hikes/snow-lake-november-2026",
+      "title": "Snow Lake in November",
+      "entry-date": "November 12, 2026",
+      "preview": "/snow-lake-2/preview.webp",
+      "previewBorderStyle": "background-color:#838f8e;border-color:#838f8e",
+      "titleStyle": "color:#000000",
+      "dateStyle": "color:#222222"
+    },
+    {
       "href": "/retro/atari-800xl",
       "title": "Atari 800XL",
       "entry-date": "July 15, 2026 (updated October 14, 2026)",
