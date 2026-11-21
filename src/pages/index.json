@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "href": "/family/hmong-new-year-2026",
+      "title": "Hmong New Year in Seattle Center",
+      "entry-date": "November 14, 2026",
+      "preview": "hmong-new-year-2026/preview.webp",
+      "previewBorderStyle": "background-color:#744126;border-color:#744126",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
+    },
+    {
       "href": "/hikes/snow-lake-november-2026",
       "title": "Snow Lake in November",
       "entry-date": "November 12, 2026",
