@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "href": "/retro/atari-800",
+      "title": "Atari 800",
+      "entry-date": "November 20, 2026",
+      "preview": "atari-800/preview.webp",
+      "previewBorderStyle": "background-color:#7c7266;border-color:#7c7266",
+      "titleStyle": "color:#FFFFFF",
+      "dateStyle": "color:#D3D3D3"
+    },
+    {
       "href": "/family/hmong-new-year-2026",
       "title": "Hmong New Year in Seattle Center",
       "entry-date": "November 14, 2026",
